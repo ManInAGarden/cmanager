@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title></title>
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<LINK REL="STYLESHEET" TYPE="text/css" HREF="HelpStyles.css">
+		<meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1">
+		<meta name="ProgId" content="VisualStudio.HTML">
+		<meta name="Originator" content="Microsoft Visual Studio .NET 7.1">
+	</head>
+	<body>
+		<H1>Installation</H1>
+		<P>Hier erfahren Sie, wie der CManager installiert wird.</P>
+		<H2>Installation der Software</H2>
+		<P>Um die Software zu installieren starten Sie das Setup Programm. Dieses Programm 
+			installiert alle benötigten Dateien. CManager benutzt eine ODBC-Datenquelle um 
+			seine Daten zu speichern. Diese muss vor der ersten Benutzung angelegt werden. 
+			Gehen Sie dazu wie folgt vor:</P>
+		<OL>
+			<LI>
+			Starten Sie den ODBC-Datenquellen-Administrator indem Sie zunächst in der 
+			Startleiste Einstellungen/Systemprogramme und darin den Punkt Verwaltung 
+			wählen. Danach wählen Sie den Punkt Datenquellen (ODBC) aus.
+			<LI>
+			Wechseln Sie nun in den Punkt Benutzer DSN oder System DSN. Die Datenquellen 
+			unter Benutzter DSN sind nur für den Benutzer unter dem sie eingerichtet wurden 
+			sichtbar, wohingegen die System DSN Datenquellen für alle Benutzt erdes System 
+			sichtbar sein werden. Falls Sie bei der Installation "Alle Benutzer" gewählt 
+			hatten ist das Anlegen einer System DSN sinnvoll, ansonsten sollten Sie eine 
+			Benuzter DSN anlegen.
+			<LI>
+			Um eine neue Datenquelle für die Speicherung der Cocktailrezepte hinzuzufügen 
+			klicken sie nun auf den Button "Hinzufügen...". Wählen Sie aus der Liste den 
+			ODBC-Treiber "Microsoft Access Treiber (*.mdb) aus undklicken Sie auf "Fertig 
+			stellen".
+			<LI>
+				Geben Sie nun der Datenquelle einen Namen. Falls sie nur eine Datenquelle 
+				benötigen verwenden Sie hier am besten den Namen "cmanagerdef", da dieser im 
+				CManager-Programm voreingestellt. Wenn Sie diesen Namen verwenden, können Sie 
+				den CManager ohne Angabe eines Datenquellennamens starten.</LI></OL>
+		<P>Die Rezeptedatenbank von CManager ist nun noch vollkommen leer. Importieren Sie 
+			daher zunächst die Rezepte und den Grunddatenstamm indem Sie die Datei 
+			"InitailData.xml" mit der Import-Funktion im Datei-Menü laden.</P>
+		<P>Nun stehen ihnen alle mitgelieferten Daten und Rezepte zur Verfügung und 
+			CManager sollte einwandfrei funktionieren.</P>
+	</body>
+</html>

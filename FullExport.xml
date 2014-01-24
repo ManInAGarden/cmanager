@@ -1,0 +1,528 @@
+<CManagerData Version="2.1.0.0">
+  <EpoZutat_20050105_090146_13319_31697 Name="Amaretto" Alkoholgehalt="20" Deckung="0" Farbe="0" oid="EpoZutat_20050105_090146_13319_31697" />
+  <EpoZutat_20050109_015251_2438_16563 Name="Ananassaft" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050109_015251_2438_16563" />
+  <EpoZutat_20050105_090002_9231_16209 Name="Angostura" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050105_090002_9231_16209" />
+  <EpoZutat_20090222_101504_13068_24371 Name="Apricot Brandy" Alkoholgehalt="24" Deckung="0" Farbe="0" oid="EpoZutat_20090222_101504_13068_24371" />
+  <EpoZutat_20050105_093018_31212_26303 Name="Brandy" Alkoholgehalt="38" Deckung="0" Farbe="0" oid="EpoZutat_20050105_093018_31212_26303" />
+  <EpoZutat_20050129_050606_14658_593 Name="Cachaca" Alkoholgehalt="40" Deckung="0" Farbe="0" oid="EpoZutat_20050129_050606_14658_593" />
+  <EpoZutat_20050105_083834_1236_23686 Name="Campari" Alkoholgehalt="25" Deckung="0" Farbe="0" oid="EpoZutat_20050105_083834_1236_23686" />
+  <EpoZutat_20050105_092955_28677_6073 Name="Champagner" Alkoholgehalt="12" Deckung="0" Farbe="0" oid="EpoZutat_20050105_092955_28677_6073" />
+  <EpoZutat_20070211_015224_13698_17234 Name="Cognac" Alkoholgehalt="38" Deckung="0" Farbe="0" oid="EpoZutat_20070211_015224_13698_17234" />
+  <EpoZutat_20050105_090038_28677_10384 Name="Cointreau" Alkoholgehalt="40" Deckung="0" Farbe="0" oid="EpoZutat_20050105_090038_28677_10384" />
+  <EpoZutat_20050109_031014_26019_1292 Name="Cola" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050109_031014_26019_1292" />
+  <EpoZutat_20050105_084736_31671_17958 Name="Curacao" Alkoholgehalt="40" Deckung="0" Farbe="0" oid="EpoZutat_20050105_084736_31671_17958" />
+  <EpoZutat_20050331_120354_13694_14450 Name="Curacao (blue)" Alkoholgehalt="21" Deckung="0" Farbe="0" oid="EpoZutat_20050331_120354_13694_14450" />
+  <EpoZutat_20050129_050254_1556_26583 Name="Eis (zerstoßen)" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050129_050254_1556_26583" />
+  <EpoZutat_20050105_090950_7944_5763 Name="Eiswürfel" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050105_090950_7944_5763" />
+  <EpoZutat_20050102_120605_24805_24228 Name="Gin" Alkoholgehalt="38" Deckung="0" Farbe="0" oid="EpoZutat_20050102_120605_24805_24228" />
+  <EpoZutat_20050109_022215_20809_28164 Name="Ginger Ale" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050109_022215_20809_28164" />
+  <EpoZutat_20050105_093938_20151_28524 Name="Grapefruitsaft" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050105_093938_20151_28524" />
+  <EpoZutat_20050105_083857_13018_4072 Name="Grenadine" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050105_083857_13018_4072" />
+  <EpoZutat_20070211_014304_12777_23312 Name="Kaffeelikör" Alkoholgehalt="20" Deckung="0" Farbe="0" oid="EpoZutat_20070211_014304_12777_23312" />
+  <EpoZutat_20050404_124100_20942_17890 Name="Kokoscreme (Coconut Cream)" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050404_124100_20942_17890" />
+  <EpoZutat_20050109_015100_7761_25231 Name="Kokosmilch" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050109_015100_7761_25231" />
+  <EpoZutat_20050105_093630_10833_23457 Name="Läuterzucker" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050105_093630_10833_23457" />
+  <EpoZutat_20050105_084720_2072_29448 Name="Limettensaft" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050105_084720_2072_29448" />
+  <EpoZutat_20050129_050833_23254_28396 Name="Limettenstücke" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050129_050833_23254_28396" />
+  <EpoZutat_20050105_084843_12886_28861 Name="Mandelsirup" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050105_084843_12886_28861" />
+  <EpoZutat_20050219_065505_26143_3300 Name="Milch" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050219_065505_26143_3300" />
+  <EpoZutat_20050105_093954_24878_16378 Name="Orangensaft" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050105_093954_24878_16378" />
+  <EpoZutat_20050105_052801_11933_5194 Name="Rum (Bacardi)" Alkoholgehalt="38" Deckung="0" Farbe="0" oid="EpoZutat_20050105_052801_11933_5194" />
+  <EpoZutat_20050102_123857_11116_6705 Name="Rum gelb" Alkoholgehalt="35" Deckung="0" Farbe="0" oid="EpoZutat_20050102_123857_11116_6705" />
+  <EpoZutat_20050102_123838_13556_16517 Name="Rum weiß" Alkoholgehalt="37" Deckung="0" Farbe="0" oid="EpoZutat_20050102_123838_13556_16517" />
+  <EpoZutat_20050404_124148_17237_30484 Name="Sahne" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050404_124148_17237_30484" />
+  <EpoZutat_20050105_094015_10020_1033 Name="Sodawasser" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050105_094015_10020_1033" />
+  <EpoZutat_20050105_083711_17049_19075 Name="Tequila" Alkoholgehalt="38" Deckung="0" Farbe="0" oid="EpoZutat_20050105_083711_17049_19075" />
+  <EpoZutat_20050101_115910_28707_30963 Name="Vermouth rot" Alkoholgehalt="15" Deckung="0" Farbe="0" oid="EpoZutat_20050101_115910_28707_30963" />
+  <EpoZutat_20050101_115903_7130_6454 Name="Vermouth weiß" Alkoholgehalt="15" Deckung="0" Farbe="0" oid="EpoZutat_20050101_115903_7130_6454" />
+  <EpoZutat_20050105_101739_25247_5425 Name="Whiskey (Bourbon)" Alkoholgehalt="36" Deckung="0" Farbe="0" oid="EpoZutat_20050105_101739_25247_5425" />
+  <EpoZutat_20050105_100356_25207_3361 Name="Whiskey (Rye)" Alkoholgehalt="38" Deckung="0" Farbe="0" oid="EpoZutat_20050105_100356_25207_3361" />
+  <EpoZutat_20050102_123929_1534_5002 Name="Whiskey (Scotch)" Alkoholgehalt="30" Deckung="0" Farbe="0" oid="EpoZutat_20050102_123929_1534_5002" />
+  <EpoZutat_20050105_083812_13983_1531 Name="Wodka" Alkoholgehalt="38" Deckung="0" Farbe="0" oid="EpoZutat_20050105_083812_13983_1531" />
+  <EpoZutat_20050105_083654_13646_12051 Name="Zitronensaft" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050105_083654_13646_12051" />
+  <EpoZutat_20050129_050430_26832_7037 Name="Zucker" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050129_050430_26832_7037" />
+  <EpoZutat_20050129_050413_31902_31190 Name="Zucker (braun)" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050129_050413_31902_31190" />
+  <EpoZutat_20050122_070603_22723_800 Name="Zucker (Würfel)" Alkoholgehalt="0" Deckung="0" Farbe="0" oid="EpoZutat_20050122_070603_22723_800" />
+  <EpoGlas_0_0_1 FormOid="EpoGlasForm_0_0_1" Name="Cocktailschale groß" Inhalt="100" oid="EpoGlas_0_0_1" />
+  <EpoGlas_0_0_0 FormOid="EpoGlasForm_0_0_0" Name="Cocktailschale klein" Inhalt="65" oid="EpoGlas_0_0_0" />
+  <EpoGlas_0_0_10 FormOid="EpoGlasForm_0_0_10" Name="Goblet" Inhalt="300" oid="EpoGlas_0_0_10" />
+  <EpoGlas_0_0_11 FormOid="EpoGlasForm_0_0_11" Name="Goblet groß" Inhalt="400" oid="EpoGlas_0_0_11" />
+  <EpoGlas_0_0_8 FormOid="EpoGlasForm_0_0_8" Name="Irish Coffee Glas" Inhalt="100" oid="EpoGlas_0_0_8" />
+  <EpoGlas_0_0_9 FormOid="EpoGlasForm_0_0_9" Name="Pousse-Cafe-Glas" Inhalt="100" oid="EpoGlas_0_0_9" />
+  <EpoGlas_0_0_7 FormOid="EpoGlasForm_0_0_7" Name="Schaumweinschale" Inhalt="110" oid="EpoGlas_0_0_7" />
+  <EpoGlas_0_0_5 FormOid="EpoGlasForm_0_0_5" Name="Sektflöte" Inhalt="100" oid="EpoGlas_0_0_5" />
+  <EpoGlas_0_0_4 FormOid="EpoGlasForm_0_0_4" Name="Tumbler groß" Inhalt="300" oid="EpoGlas_0_0_4" />
+  <EpoGlas_0_0_2 FormOid="EpoGlasForm_0_0_2" Name="Tumbler klein" Inhalt="150" oid="EpoGlas_0_0_2" />
+  <EpoGlas_0_0_3 FormOid="EpoGlasForm_0_0_3" Name="Tumbler mittel" Inhalt="200" oid="EpoGlas_0_0_3" />
+  <EpoGlas_0_0_6 FormOid="EpoGlasForm_0_0_6" Name="Weinbrandschwenker" Inhalt="120" oid="EpoGlas_0_0_6" />
+  <EpoGarnierung_0_0_9 Name="Ananasscheibe" Deckung="0" Farbe="0" oid="EpoGarnierung_0_0_9" />
+  <EpoGarnierung_0_0_4 Name="Cocktailkirsche" Deckung="0" Farbe="0" oid="EpoGarnierung_0_0_4" />
+  <EpoGarnierung_0_0_11 Name="Minzeblatt" Deckung="0" Farbe="0" oid="EpoGarnierung_0_0_11" />
+  <EpoGarnierung_0_0_10 Name="Minzezweig" Deckung="0" Farbe="0" oid="EpoGarnierung_0_0_10" />
+  <EpoGarnierung_0_0_0 Name="Olive" Deckung="0" Farbe="0" oid="EpoGarnierung_0_0_0" />
+  <EpoGarnierung_0_0_2 Name="Orangenscheibe" Deckung="0" Farbe="0" oid="EpoGarnierung_0_0_2" />
+  <EpoGarnierung_0_0_6 Name="Orangenzeste" Deckung="0" Farbe="0" oid="EpoGarnierung_0_0_6" />
+  <EpoGarnierung_0_0_3 Name="Salzrand" Deckung="0" Farbe="0" oid="EpoGarnierung_0_0_3" />
+  <EpoGarnierung_0_0_5 Name="Silberzwiebel" Deckung="0" Farbe="0" oid="EpoGarnierung_0_0_5" />
+  <EpoGarnierung_0_0_8 Name="Strohhalm" Deckung="0" Farbe="0" oid="EpoGarnierung_0_0_8" />
+  <EpoGarnierung_0_0_1 Name="Zitronenscheibe" Deckung="0" Farbe="0" oid="EpoGarnierung_0_0_1" />
+  <EpoGarnierung_0_0_7 Name="Zitronenzeste" Deckung="0" Farbe="0" oid="EpoGarnierung_0_0_7" />
+  <EpoRezept_20050512_042628_30398_11476 RubrikOid="EpoRubrik_0_0_5" Name="Alice" Zubereitung="Die Zutaten im Shaker mit Eiswürfeln gut schütteln und in ein Longdrinkglas auf einige Eiswürfel abseihen. Mit Früchten nach Wahl garnieren." GlasOid="EpoGlas_0_0_3" oid="EpoRezept_20050512_042628_30398_11476">
+    <Links>
+      <EpoRezeptZutat_20050512_042645_8048_25276 RezeptOid="EpoRezept_20050512_042628_30398_11476" Name="Neue Rezeptzutat" Anteil="40" ZutatOid="EpoZutat_20050105_093954_24878_16378" oid="EpoRezeptZutat_20050512_042645_8048_25276" />
+      <EpoRezeptZutat_20050512_042646_7346_17751 RezeptOid="EpoRezept_20050512_042628_30398_11476" Name="Neue Rezeptzutat" Anteil="40" ZutatOid="EpoZutat_20050109_015251_2438_16563" oid="EpoRezeptZutat_20050512_042646_7346_17751" />
+      <EpoRezeptZutat_20050512_042645_12309_12573 RezeptOid="EpoRezept_20050512_042628_30398_11476" Name="Neue Rezeptzutat" Anteil="10" ZutatOid="EpoZutat_20050105_083857_13018_4072" oid="EpoRezeptZutat_20050512_042645_12309_12573" />
+      <EpoRezeptZutat_20050512_042647_8504_23471 RezeptOid="EpoRezept_20050512_042628_30398_11476" Name="Neue Rezeptzutat" Anteil="10" ZutatOid="EpoZutat_20050404_124148_17237_30484" oid="EpoRezeptZutat_20050512_042647_8504_23471" />
+    </Links>
+  </EpoRezept_20050512_042628_30398_11476>
+  <EpoRezept_20050105_102326_7655_2819 RubrikOid="EpoRubrik_0_0_13" Name="Amaretto Sour" Zubereitung="Alle Zutaten im Shaker zusammen mit Eiswürfeln kräftig schütteln. In die Cocktailschale gießen und den Rand mit einer Orangenscheibe dekorieren," GlasOid="EpoGlas_0_0_1" oid="EpoRezept_20050105_102326_7655_2819">
+    <Links>
+      <EpoRezeptGarnierung_20050105_102409_6020_12889 RezeptOid="EpoRezept_20050105_102326_7655_2819" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_2" oid="EpoRezeptGarnierung_20050105_102409_6020_12889" />
+      <EpoRezeptZutat_20050105_102344_6703_31939 RezeptOid="EpoRezept_20050105_102326_7655_2819" Name="Neue Rezeptzutat" Anteil="66" ZutatOid="EpoZutat_20050105_090146_13319_31697" oid="EpoRezeptZutat_20050105_102344_6703_31939" />
+      <EpoRezeptZutat_20050105_102344_6089_6150 RezeptOid="EpoRezept_20050105_102326_7655_2819" Name="Neue Rezeptzutat" Anteil="33" ZutatOid="EpoZutat_20050105_083654_13646_12051" oid="EpoRezeptZutat_20050105_102344_6089_6150" />
+    </Links>
+  </EpoRezept_20050105_102326_7655_2819>
+  <EpoRezept_20050122_072118_20255_8573 RubrikOid="EpoRubrik_0_0_5" Name="Americano" Zubereitung="Das Glas mit den Eiswürfeln füllen und die Zuaten darübergießen. Dann mit dem Sodwasser aufspritzen. Mit der Zitronenzeste und einer halben Orangenscheibe dekorieren. Wer es nicht ganz so bitter mag kann ewtas weniger Campari nehmen und stattdessen ein wenig mehr Vermouth verwenden." GlasOid="EpoGlas_0_0_2" oid="EpoRezept_20050122_072118_20255_8573">
+    <Links>
+      <EpoRezeptGarnierung_20050122_072357_740_11483 RezeptOid="EpoRezept_20050122_072118_20255_8573" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_7" oid="EpoRezeptGarnierung_20050122_072357_740_11483" />
+      <EpoRezeptGarnierung_20050122_072356_8753_30487 RezeptOid="EpoRezept_20050122_072118_20255_8573" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_2" oid="EpoRezeptGarnierung_20050122_072356_8753_30487" />
+      <EpoRezeptZutat_20050122_072135_22140_4785 RezeptOid="EpoRezept_20050122_072118_20255_8573" Name="Neue Rezeptzutat" Anteil="40" ZutatOid="EpoZutat_20050105_090950_7944_5763" oid="EpoRezeptZutat_20050122_072135_22140_4785" />
+      <EpoRezeptZutat_20050122_072201_18967_16052 RezeptOid="EpoRezept_20050122_072118_20255_8573" Name="Neue Rezeptzutat" Anteil="25" ZutatOid="EpoZutat_20050105_083834_1236_23686" oid="EpoRezeptZutat_20050122_072201_18967_16052" />
+      <EpoRezeptZutat_20050122_072136_25747_4620 RezeptOid="EpoRezept_20050122_072118_20255_8573" Name="Neue Rezeptzutat" Anteil="25" ZutatOid="EpoZutat_20050101_115910_28707_30963" oid="EpoRezeptZutat_20050122_072136_25747_4620" />
+      <EpoRezeptZutat_20050122_072312_28509_4404 RezeptOid="EpoRezept_20050122_072118_20255_8573" Name="Neue Rezeptzutat" Anteil="10" ZutatOid="EpoZutat_20050105_094015_10020_1033" oid="EpoRezeptZutat_20050122_072312_28509_4404" />
+    </Links>
+  </EpoRezept_20050122_072118_20255_8573>
+  <EpoRezept_20050105_083358_22498_15994 RubrikOid="EpoRubrik_0_0_3" Name="Bacardi" Zubereitung="Alle Zutaten im Shaker mit Eiswürfeln kurz und kräftig schütteln." GlasOid="EpoGlas_0_0_0" oid="EpoRezept_20050105_083358_22498_15994">
+    <Links>
+      <EpoRezeptZutat_20050105_083417_21718_3848 RezeptOid="EpoRezept_20050105_083358_22498_15994" Name="Neue Rezeptzutat" Anteil="50" ZutatOid="EpoZutat_20050105_052801_11933_5194" oid="EpoRezeptZutat_20050105_083417_21718_3848" />
+      <EpoRezeptZutat_20050105_083416_18620_24895 RezeptOid="EpoRezept_20050105_083358_22498_15994" Name="Neue Rezeptzutat" Anteil="25" ZutatOid="EpoZutat_20050105_083857_13018_4072" oid="EpoRezeptZutat_20050105_083416_18620_24895" />
+      <EpoRezeptZutat_20050105_083416_22466_20705 RezeptOid="EpoRezept_20050105_083358_22498_15994" Name="Neue Rezeptzutat" Anteil="25" ZutatOid="EpoZutat_20050105_083654_13646_12051" oid="EpoRezeptZutat_20050105_083416_22466_20705" />
+    </Links>
+  </EpoRezept_20050105_083358_22498_15994>
+  <EpoRezept_20050105_102619_21152_1313 RubrikOid="EpoRubrik_0_0_3" Name="Between the Sheets" Zubereitung="Alle Zutaten im Shaker mit Eis kurz schütteln. In die Cocktailschale gießen." GlasOid="EpoGlas_0_0_1" oid="EpoRezept_20050105_102619_21152_1313">
+    <Links>
+      <EpoRezeptZutat_20050105_102640_14804_2980 RezeptOid="EpoRezept_20050105_102619_21152_1313" Name="Neue Rezeptzutat" Anteil="33" ZutatOid="EpoZutat_20050105_093018_31212_26303" oid="EpoRezeptZutat_20050105_102640_14804_2980" />
+      <EpoRezeptZutat_20050105_102640_30531_1227 RezeptOid="EpoRezept_20050105_102619_21152_1313" Name="Neue Rezeptzutat" Anteil="33" ZutatOid="EpoZutat_20050105_090038_28677_10384" oid="EpoRezeptZutat_20050105_102640_30531_1227" />
+      <EpoRezeptZutat_20050105_102641_24271_28904 RezeptOid="EpoRezept_20050105_102619_21152_1313" Name="Neue Rezeptzutat" Anteil="33" ZutatOid="EpoZutat_20050102_123838_13556_16517" oid="EpoRezeptZutat_20050105_102641_24271_28904" />
+    </Links>
+  </EpoRezept_20050105_102619_21152_1313>
+  <EpoRezept_20070211_014127_22701_5149 RubrikOid="EpoRubrik_0_0_12" Name="Black Russian" Zubereitung="Alle Zutaten direkt in das Glas über die Eiswürfel gießen. Danach kurz umrühren." GlasOid="EpoGlas_0_0_2" oid="EpoRezept_20070211_014127_22701_5149">
+    <Links>
+      <EpoRezeptZutat_20070211_014443_27178_27534 RezeptOid="EpoRezept_20070211_014127_22701_5149" Name="Neue Rezeptzutat" Anteil="50" ZutatOid="EpoZutat_20050105_090950_7944_5763" oid="EpoRezeptZutat_20070211_014443_27178_27534" />
+      <EpoRezeptZutat_20070211_014156_14757_7569 RezeptOid="EpoRezept_20070211_014127_22701_5149" Name="Neue Rezeptzutat" Anteil="35" ZutatOid="EpoZutat_20050105_083812_13983_1531" oid="EpoRezeptZutat_20070211_014156_14757_7569" />
+      <EpoRezeptZutat_20070211_014422_16502_5223 RezeptOid="EpoRezept_20070211_014127_22701_5149" Name="Neue Rezeptzutat" Anteil="15" ZutatOid="EpoZutat_20070211_014304_12777_23312" oid="EpoRezeptZutat_20070211_014422_16502_5223" />
+    </Links>
+  </EpoRezept_20070211_014127_22701_5149>
+  <EpoRezept_20050404_123346_5221_31091 RubrikOid="EpoRubrik_0_0_8" Name="Blue Hawaiian Colada" Zubereitung="Alle Zutaten mit zerstoßenem Eis im Blender auf höchster Stufe 15 Sekunden mixen. In das Glas füllen und mit der Ananasscheibe, den Cocktailkirschen und den Trinkhalmen dekorieren." GlasOid="EpoGlas_0_0_4" oid="EpoRezept_20050404_123346_5221_31091">
+    <Links>
+      <EpoRezeptGarnierung_20050404_124353_1059_15919 RezeptOid="EpoRezept_20050404_123346_5221_31091" Menge="2" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_8" oid="EpoRezeptGarnierung_20050404_124353_1059_15919" />
+      <EpoRezeptGarnierung_20050404_124356_21841_4361 RezeptOid="EpoRezept_20050404_123346_5221_31091" Menge="2" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_4" oid="EpoRezeptGarnierung_20050404_124356_21841_4361" />
+      <EpoRezeptGarnierung_20050404_124357_10544_7811 RezeptOid="EpoRezept_20050404_123346_5221_31091" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_9" oid="EpoRezeptGarnierung_20050404_124357_10544_7811" />
+      <EpoRezeptZutat_20050404_123609_11377_8716 RezeptOid="EpoRezept_20050404_123346_5221_31091" Name="Neue Rezeptzutat" Anteil="26" ZutatOid="EpoZutat_20050109_015251_2438_16563" oid="EpoRezeptZutat_20050404_123609_11377_8716" />
+      <EpoRezeptZutat_20050404_123601_4218_8597 RezeptOid="EpoRezept_20050404_123346_5221_31091" Name="Neue Rezeptzutat" Anteil="25" ZutatOid="EpoZutat_20050129_050254_1556_26583" oid="EpoRezeptZutat_20050404_123601_4218_8597" />
+      <EpoRezeptZutat_20050404_123614_7931_23791 RezeptOid="EpoRezept_20050404_123346_5221_31091" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050102_123838_13556_16517" oid="EpoRezeptZutat_20050404_123614_7931_23791" />
+      <EpoRezeptZutat_20050404_123602_1213_27769 RezeptOid="EpoRezept_20050404_123346_5221_31091" Name="Neue Rezeptzutat" Anteil="13" ZutatOid="EpoZutat_20050404_124100_20942_17890" oid="EpoRezeptZutat_20050404_123602_1213_27769" />
+      <EpoRezeptZutat_20050404_123602_31612_452 RezeptOid="EpoRezept_20050404_123346_5221_31091" Name="Neue Rezeptzutat" Anteil="9" ZutatOid="EpoZutat_20050404_124148_17237_30484" oid="EpoRezeptZutat_20050404_123602_31612_452" />
+      <EpoRezeptZutat_20050404_123610_18844_9111 RezeptOid="EpoRezept_20050404_123346_5221_31091" Name="Neue Rezeptzutat" Anteil="7" ZutatOid="EpoZutat_20050331_120354_13694_14450" oid="EpoRezeptZutat_20050404_123610_18844_9111" />
+    </Links>
+  </EpoRezept_20050404_123346_5221_31091>
+  <EpoRezept_20050331_113252_27747_18813 RubrikOid="EpoRubrik_0_0_3" Name="Blue Lagoon" Zubereitung="Alle Zutaten im Shaker mit Eis kräftig und kurz schütteln. Dann mit der Zitronenscheibe am Glasrand dekorieren." GlasOid="EpoGlas_0_0_0" oid="EpoRezept_20050331_113252_27747_18813">
+    <Links>
+      <EpoRezeptGarnierung_20050331_113547_8310_21841 RezeptOid="EpoRezept_20050331_113252_27747_18813" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_1" oid="EpoRezeptGarnierung_20050331_113547_8310_21841" />
+      <EpoRezeptZutat_20050331_113425_3715_8946 RezeptOid="EpoRezept_20050331_113252_27747_18813" Name="Neue Rezeptzutat" Anteil="60" ZutatOid="EpoZutat_20050105_083812_13983_1531" oid="EpoRezeptZutat_20050331_113425_3715_8946" />
+      <EpoRezeptZutat_20050331_113426_2500_20526 RezeptOid="EpoRezept_20050331_113252_27747_18813" Name="Neue Rezeptzutat" Anteil="30" ZutatOid="EpoZutat_20050105_083654_13646_12051" oid="EpoRezeptZutat_20050331_113426_2500_20526" />
+      <EpoRezeptZutat_20050331_113426_7439_20714 RezeptOid="EpoRezept_20050331_113252_27747_18813" Name="Neue Rezeptzutat" Anteil="10" ZutatOid="EpoZutat_20050331_120354_13694_14450" oid="EpoRezeptZutat_20050331_113426_7439_20714" />
+    </Links>
+  </EpoRezept_20050331_113252_27747_18813>
+  <EpoRezept_20050331_113942_20846_18030 RubrikOid="EpoRubrik_0_0_3" Name="Blue Margarita" Zubereitung="Speisesalz auf einen flachen Teller geben. Den Glasrand mit einer Zitronenscheibe befeuchten und das umgestülpte Glas mit dem Rand in das Salz stellen, so dass das Salz am Rand eine Kruste bildet. Die Zutaten im Shaker mit Eis kräftig aber kurz schütteln und in das vorbereitete Glas geben." GlasOid="EpoGlas_0_0_0" oid="EpoRezept_20050331_113942_20846_18030">
+    <Links>
+      <EpoRezeptGarnierung_20050331_114324_17010_3784 RezeptOid="EpoRezept_20050331_113942_20846_18030" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_3" oid="EpoRezeptGarnierung_20050331_114324_17010_3784" />
+      <EpoRezeptZutat_20050331_114235_27627_19038 RezeptOid="EpoRezept_20050331_113942_20846_18030" Name="Neue Rezeptzutat" Anteil="50" ZutatOid="EpoZutat_20050105_083711_17049_19075" oid="EpoRezeptZutat_20050331_114235_27627_19038" />
+      <EpoRezeptZutat_20050331_114234_17638_20840 RezeptOid="EpoRezept_20050331_113942_20846_18030" Name="Neue Rezeptzutat" Anteil="30" ZutatOid="EpoZutat_20050331_120354_13694_14450" oid="EpoRezeptZutat_20050331_114234_17638_20840" />
+      <EpoRezeptZutat_20050331_114234_7056_14618 RezeptOid="EpoRezept_20050331_113942_20846_18030" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050105_084720_2072_29448" oid="EpoRezeptZutat_20050331_114234_7056_14618" />
+    </Links>
+  </EpoRezept_20050331_113942_20846_18030>
+  <EpoRezept_20050219_064750_21607_17043 RubrikOid="EpoRubrik_0_0_8" Name="Brazil Colada" Zubereitung="Alle Zutaten mit dem zertsoßenem Eis im Blender bei hoher Geschwindigkeit ca.20 Sekunden mixen. Mit der Ananasscheibe den Trinkhalmen und der Cocktailkirsche garnieren." GlasOid="EpoGlas_0_0_4" oid="EpoRezept_20050219_064750_21607_17043">
+    <Links>
+      <EpoRezeptGarnierung_20050219_065544_22940_26359 RezeptOid="EpoRezept_20050219_064750_21607_17043" Menge="2" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_8" oid="EpoRezeptGarnierung_20050219_065544_22940_26359" />
+      <EpoRezeptGarnierung_20050219_065546_20333_28909 RezeptOid="EpoRezept_20050219_064750_21607_17043" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_9" oid="EpoRezeptGarnierung_20050219_065546_20333_28909" />
+      <EpoRezeptGarnierung_20050219_065545_9766_10318 RezeptOid="EpoRezept_20050219_064750_21607_17043" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_4" oid="EpoRezeptGarnierung_20050219_065545_9766_10318" />
+      <EpoRezeptZutat_20050219_065007_6316_23017 RezeptOid="EpoRezept_20050219_064750_21607_17043" Name="Neue Rezeptzutat" Anteil="50" ZutatOid="EpoZutat_20050129_050254_1556_26583" oid="EpoRezeptZutat_20050219_065007_6316_23017" />
+      <EpoRezeptZutat_20050219_065008_9827_25329 RezeptOid="EpoRezept_20050219_064750_21607_17043" Name="Neue Rezeptzutat" Anteil="17" ZutatOid="EpoZutat_20050109_015251_2438_16563" oid="EpoRezeptZutat_20050219_065008_9827_25329" />
+      <EpoRezeptZutat_20050219_065010_12504_4224 RezeptOid="EpoRezept_20050219_064750_21607_17043" Name="Neue Rezeptzutat" Anteil="10" ZutatOid="EpoZutat_20050129_050606_14658_593" oid="EpoRezeptZutat_20050219_065010_12504_4224" />
+      <EpoRezeptZutat_20050219_065009_17798_633 RezeptOid="EpoRezept_20050219_064750_21607_17043" Name="Neue Rezeptzutat" Anteil="7" ZutatOid="EpoZutat_20050102_123838_13556_16517" oid="EpoRezeptZutat_20050219_065009_17798_633" />
+      <EpoRezeptZutat_20050219_065008_20339_4695 RezeptOid="EpoRezept_20050219_064750_21607_17043" Name="Neue Rezeptzutat" Anteil="4" ZutatOid="EpoZutat_20050404_124100_20942_17890" oid="EpoRezeptZutat_20050219_065008_20339_4695" />
+      <EpoRezeptZutat_20050219_065006_21970_12568 RezeptOid="EpoRezept_20050219_064750_21607_17043" Name="Neue Rezeptzutat" Anteil="1" ZutatOid="EpoZutat_20050404_124148_17237_30484" oid="EpoRezeptZutat_20050219_065006_21970_12568" />
+    </Links>
+  </EpoRezept_20050219_064750_21607_17043>
+  <EpoRezept_20050219_070003_27873_20291 RubrikOid="EpoRubrik_0_0_3" Name="Bronx" Zubereitung="Alle Zutaten mit Eis im Shaker kurz schütteln und durch ein Sieb in das Glas füllen. " GlasOid="EpoGlas_0_0_0" oid="EpoRezept_20050219_070003_27873_20291">
+    <Links>
+      <EpoRezeptZutat_20050219_070040_7566_25931 RezeptOid="EpoRezept_20050219_070003_27873_20291" Name="Neue Rezeptzutat" Anteil="40" ZutatOid="EpoZutat_20050102_120605_24805_24228" oid="EpoRezeptZutat_20050219_070040_7566_25931" />
+      <EpoRezeptZutat_20050219_070132_3710_22063 RezeptOid="EpoRezept_20050219_070003_27873_20291" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050105_093954_24878_16378" oid="EpoRezeptZutat_20050219_070132_3710_22063" />
+      <EpoRezeptZutat_20050219_070039_27851_3178 RezeptOid="EpoRezept_20050219_070003_27873_20291" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050101_115910_28707_30963" oid="EpoRezeptZutat_20050219_070039_27851_3178" />
+      <EpoRezeptZutat_20050219_070039_688_5852 RezeptOid="EpoRezept_20050219_070003_27873_20291" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050101_115903_7130_6454" oid="EpoRezeptZutat_20050219_070039_688_5852" />
+    </Links>
+  </EpoRezept_20050219_070003_27873_20291>
+  <EpoRezept_20050129_050058_20797_13165 RubrikOid="EpoRubrik_0_0_15" Name="Caipirinha" Zubereitung="Eine halbe Limette in Stückchen schneiden in das Glas geben und mit einem Mörser zerquetschen. Mit zwei Teelöffeln braunem Zucker (vorzugsweise braunem Rohrzucker) bestreuen und umrühren. Das zerstoßene Eis obendrauf geben und mit dem Cachaca übergießen. Alles noch einmal umrühren und servieren." GlasOid="EpoGlas_0_0_2" oid="EpoRezept_20050129_050058_20797_13165">
+    <Links>
+      <EpoRezeptZutat_20050129_050132_31547_21203 RezeptOid="EpoRezept_20050129_050058_20797_13165" Name="Neue Rezeptzutat" Anteil="50" ZutatOid="EpoZutat_20050129_050254_1556_26583" oid="EpoRezeptZutat_20050129_050132_31547_21203" />
+      <EpoRezeptZutat_20050129_050129_8060_2725 RezeptOid="EpoRezept_20050129_050058_20797_13165" Name="Neue Rezeptzutat" Anteil="30" ZutatOid="EpoZutat_20050129_050606_14658_593" oid="EpoRezeptZutat_20050129_050129_8060_2725" />
+      <EpoRezeptZutat_20050129_050859_29376_18870 RezeptOid="EpoRezept_20050129_050058_20797_13165" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050129_050833_23254_28396" oid="EpoRezeptZutat_20050129_050859_29376_18870" />
+      <EpoRezeptZutat_20050129_050132_19513_15424 RezeptOid="EpoRezept_20050129_050058_20797_13165" Name="Neue Rezeptzutat" Anteil="0" ZutatOid="EpoZutat_20050129_050413_31902_31190" oid="EpoRezeptZutat_20050129_050132_19513_15424" />
+    </Links>
+  </EpoRezept_20050129_050058_20797_13165>
+  <EpoRezept_20070211_014737_4178_7937 RubrikOid="EpoRubrik_0_0_3" Name="Cardinale" Zubereitung="Alle Zutaten mit Eis in ein Barglas füllen und darin vorsichtig umrühren. Dann in das Glas füllen." GlasOid="EpoGlas_0_0_0" oid="EpoRezept_20070211_014737_4178_7937">
+    <Links>
+      <EpoRezeptGarnierung_20070211_014845_27903_17778 RezeptOid="EpoRezept_20070211_014737_4178_7937" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_7" oid="EpoRezeptGarnierung_20070211_014845_27903_17778" />
+      <EpoRezeptZutat_20070211_014748_21897_29425 RezeptOid="EpoRezept_20070211_014737_4178_7937" Name="Neue Rezeptzutat" Anteil="50" ZutatOid="EpoZutat_20050102_120605_24805_24228" oid="EpoRezeptZutat_20070211_014748_21897_29425" />
+      <EpoRezeptZutat_20070211_014803_4670_13663 RezeptOid="EpoRezept_20070211_014737_4178_7937" Name="Neue Rezeptzutat" Anteil="30" ZutatOid="EpoZutat_20050101_115903_7130_6454" oid="EpoRezeptZutat_20070211_014803_4670_13663" />
+      <EpoRezeptZutat_20070211_014822_30530_13336 RezeptOid="EpoRezept_20070211_014737_4178_7937" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050105_083834_1236_23686" oid="EpoRezeptZutat_20070211_014822_30530_13336" />
+    </Links>
+  </EpoRezept_20070211_014737_4178_7937>
+  <EpoRezept_20070211_015030_6142_22068 RubrikOid="EpoRubrik_0_0_10" Name="Champagne Pick Me Up" Zubereitung="Alle Zutaten bis auf den Champagner/Sekt im Shaker mit Eis kurz schütteln. Dann in das Glas geben und mit dem Champagner auffüllen." GlasOid="EpoGlas_0_0_5" oid="EpoRezept_20070211_015030_6142_22068">
+    <Links>
+      <EpoRezeptZutat_20070211_015351_13895_29296 RezeptOid="EpoRezept_20070211_015030_6142_22068" Name="Neue Rezeptzutat" Anteil="50" ZutatOid="EpoZutat_20050105_092955_28677_6073" oid="EpoRezeptZutat_20070211_015351_13895_29296" />
+      <EpoRezeptZutat_20070211_015323_25705_447 RezeptOid="EpoRezept_20070211_015030_6142_22068" Name="Neue Rezeptzutat" Anteil="25" ZutatOid="EpoZutat_20070211_015224_13698_17234" oid="EpoRezeptZutat_20070211_015323_25705_447" />
+      <EpoRezeptZutat_20070211_015045_14189_1835 RezeptOid="EpoRezept_20070211_015030_6142_22068" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050105_093954_24878_16378" oid="EpoRezeptZutat_20070211_015045_14189_1835" />
+      <EpoRezeptZutat_20070211_015340_26627_29842 RezeptOid="EpoRezept_20070211_015030_6142_22068" Name="Neue Rezeptzutat" Anteil="5" ZutatOid="EpoZutat_20050105_083857_13018_4072" oid="EpoRezeptZutat_20070211_015340_26627_29842" />
+    </Links>
+  </EpoRezept_20070211_015030_6142_22068>
+  <EpoRezept_20050105_092910_20212_256 RubrikOid="EpoRubrik_0_0_10" Name="Champagnercocktail" Zubereitung="Den Würfelzucker in eine Sektflöte geben, mit Angostura beträufeln, mit dem Brandy und anschließend mit dem Champagner aufgießen. Mit den Früchten dekorieren." GlasOid="EpoGlas_0_0_5" oid="EpoRezept_20050105_092910_20212_256">
+    <Links>
+      <EpoRezeptGarnierung_20050105_093208_24939_10595 RezeptOid="EpoRezept_20050105_092910_20212_256" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_2" oid="EpoRezeptGarnierung_20050105_093208_24939_10595" />
+      <EpoRezeptGarnierung_20050105_093210_6366_27256 RezeptOid="EpoRezept_20050105_092910_20212_256" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_4" oid="EpoRezeptGarnierung_20050105_093210_6366_27256" />
+      <EpoRezeptZutat_20050105_092931_16904_14661 RezeptOid="EpoRezept_20050105_092910_20212_256" Name="Neue Rezeptzutat" Anteil="90" ZutatOid="EpoZutat_20050105_092955_28677_6073" oid="EpoRezeptZutat_20050105_092931_16904_14661" />
+      <EpoRezeptZutat_20050105_093131_21634_643 RezeptOid="EpoRezept_20050105_092910_20212_256" Name="Neue Rezeptzutat" Anteil="10" ZutatOid="EpoZutat_20050105_093018_31212_26303" oid="EpoRezeptZutat_20050105_093131_21634_643" />
+      <EpoRezeptZutat_20050105_093147_19_3208 RezeptOid="EpoRezept_20050105_092910_20212_256" Name="Neue Rezeptzutat" Anteil="0" ZutatOid="EpoZutat_20050105_090002_9231_16209" oid="EpoRezeptZutat_20050105_093147_19_3208" />
+    </Links>
+  </EpoRezept_20050105_092910_20212_256>
+  <EpoRezept_20090222_101959_23930_30733 RubrikOid="EpoRubrik_0_0_3" Name="Claridge" Zubereitung="Alle Zutaten mit Eiswürfeln in ein Mixglas geben und vorsichtig umrühren. Dann durch ein Barsieb in die Gläser gießen." GlasOid="EpoGlas_0_0_0" oid="EpoRezept_20090222_101959_23930_30733">
+    <Links>
+      <EpoRezeptZutat_20090222_102034_610_10341 RezeptOid="EpoRezept_20090222_101959_23930_30733" Name="Neue Rezeptzutat" Anteil="33" ZutatOid="EpoZutat_20050101_115903_7130_6454" oid="EpoRezeptZutat_20090222_102034_610_10341" />
+      <EpoRezeptZutat_20090222_102016_26319_21126 RezeptOid="EpoRezept_20090222_101959_23930_30733" Name="Neue Rezeptzutat" Anteil="33" ZutatOid="EpoZutat_20050102_120605_24805_24228" oid="EpoRezeptZutat_20090222_102016_26319_21126" />
+      <EpoRezeptZutat_20090222_102125_31242_9262 RezeptOid="EpoRezept_20090222_101959_23930_30733" Name="Neue Rezeptzutat" Anteil="17" ZutatOid="EpoZutat_20090222_101504_13068_24371" oid="EpoRezeptZutat_20090222_102125_31242_9262" />
+      <EpoRezeptZutat_20090222_102103_19405_22166 RezeptOid="EpoRezept_20090222_101959_23930_30733" Name="Neue Rezeptzutat" Anteil="17" ZutatOid="EpoZutat_20050105_090038_28677_10384" oid="EpoRezeptZutat_20090222_102103_19405_22166" />
+    </Links>
+  </EpoRezept_20090222_101959_23930_30733>
+  <EpoRezept_20050331_114557_8174_21978 RubrikOid="EpoRubrik_0_0_7" Name="Cuba Libre" Zubereitung="Den Rum und den Limettensaft in ein bis zur Hälfte mit Eieswürfeln gefülltes Glas geben und dann mit der Cola auffüllen. Kurz verrühren." GlasOid="EpoGlas_0_0_3" oid="EpoRezept_20050331_114557_8174_21978">
+    <Links>
+      <EpoRezeptZutat_20050331_114620_19123_12501 RezeptOid="EpoRezept_20050331_114557_8174_21978" Name="Neue Rezeptzutat" Anteil="45" ZutatOid="EpoZutat_20050109_031014_26019_1292" oid="EpoRezeptZutat_20050331_114620_19123_12501" />
+      <EpoRezeptZutat_20050331_114623_31200_4254 RezeptOid="EpoRezept_20050331_114557_8174_21978" Name="Neue Rezeptzutat" Anteil="25" ZutatOid="EpoZutat_20050102_123838_13556_16517" oid="EpoRezeptZutat_20050331_114623_31200_4254" />
+      <EpoRezeptZutat_20050331_114742_30623_27271 RezeptOid="EpoRezept_20050331_114557_8174_21978" Name="Neue Rezeptzutat" Anteil="25" ZutatOid="EpoZutat_20050105_090950_7944_5763" oid="EpoRezeptZutat_20050331_114742_30623_27271" />
+      <EpoRezeptZutat_20050331_114621_25993_12519 RezeptOid="EpoRezept_20050331_114557_8174_21978" Name="Neue Rezeptzutat" Anteil="5" ZutatOid="EpoZutat_20050105_084720_2072_29448" oid="EpoRezeptZutat_20050331_114621_25993_12519" />
+    </Links>
+  </EpoRezept_20050331_114557_8174_21978>
+  <EpoRezept_20050105_093531_2900_9113 RubrikOid="EpoRubrik_0_0_3" Name="Daiquiri" Zubereitung="Alle Zutaten mit Eis im Shaker einige Sekunden kräftig schütteln, durch ein Barsieb in das Glas gießen. Anstelle von Zitronensaft kann auch Limettensaft verwendet werden." GlasOid="EpoGlas_0_0_0" oid="EpoRezept_20050105_093531_2900_9113">
+    <Links>
+      <EpoRezeptZutat_20050105_093556_26991_23417 RezeptOid="EpoRezept_20050105_093531_2900_9113" Name="Neue Rezeptzutat" Anteil="60" ZutatOid="EpoZutat_20050102_123838_13556_16517" oid="EpoRezeptZutat_20050105_093556_26991_23417" />
+      <EpoRezeptZutat_20050105_093554_6026_31908 RezeptOid="EpoRezept_20050105_093531_2900_9113" Name="Neue Rezeptzutat" Anteil="30" ZutatOid="EpoZutat_20050105_083654_13646_12051" oid="EpoRezeptZutat_20050105_093554_6026_31908" />
+      <EpoRezeptZutat_20050105_093553_764_23553 RezeptOid="EpoRezept_20050105_093531_2900_9113" Name="Neue Rezeptzutat" Anteil="10" ZutatOid="EpoZutat_20050105_093630_10833_23457" oid="EpoRezeptZutat_20050105_093553_764_23553" />
+    </Links>
+  </EpoRezept_20050105_093531_2900_9113>
+  <EpoRezept_20050102_122449_19059_28607 RubrikOid="EpoRubrik_0_0_3" Name="Dry Martini" Zubereitung="Alle Zutaten zusammen mit genügend Eiswürfeln in einen Cocktailshaker geben, vorsichtig umrühren und in das Glas füllen. Mit einer Olive am Spieß garnieren." GlasOid="EpoGlas_0_0_0" oid="EpoRezept_20050102_122449_19059_28607">
+    <Links>
+      <EpoRezeptGarnierung_20050105_055658_13990_27260 RezeptOid="EpoRezept_20050102_122449_19059_28607" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_0" oid="EpoRezeptGarnierung_20050105_055658_13990_27260" />
+      <EpoRezeptZutat_20050102_122505_9324_19723 RezeptOid="EpoRezept_20050102_122449_19059_28607" Name="Neue Rezeptzutat" Anteil="70" ZutatOid="EpoZutat_20050102_120605_24805_24228" oid="EpoRezeptZutat_20050102_122505_9324_19723" />
+      <EpoRezeptZutat_20050102_122503_16521_3321 RezeptOid="EpoRezept_20050102_122449_19059_28607" Name="Neue Rezeptzutat" Anteil="30" ZutatOid="EpoZutat_20050101_115903_7130_6454" oid="EpoRezeptZutat_20050102_122503_16521_3321" />
+    </Links>
+  </EpoRezept_20050102_122449_19059_28607>
+  <EpoRezept_20050105_094051_27826_30953 RubrikOid="EpoRubrik_0_0_5" Name="Florida" Zubereitung="Alle Zutaten mit Ausnahme des Sodawassers mit zerstoßenem Eis im Blender mit hoher Geschwindigkeit kurze Zeit mixen. In ein glas füllen und mit Soda auffüllen. Mit dem Minzezweig und Trinkhalmen dekorieren." GlasOid="EpoGlas_0_0_3" oid="EpoRezept_20050105_094051_27826_30953">
+    <Links>
+      <EpoRezeptGarnierung_20050105_094539_2524_21151 RezeptOid="EpoRezept_20050105_094051_27826_30953" Menge="2" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_8" oid="EpoRezeptGarnierung_20050105_094539_2524_21151" />
+      <EpoRezeptGarnierung_20050105_094527_17332_20256 RezeptOid="EpoRezept_20050105_094051_27826_30953" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_10" oid="EpoRezeptGarnierung_20050105_094527_17332_20256" />
+      <EpoRezeptZutat_20050105_094132_3086_10815 RezeptOid="EpoRezept_20050105_094051_27826_30953" Name="Neue Rezeptzutat" Anteil="22" ZutatOid="EpoZutat_20050105_093938_20151_28524" oid="EpoRezeptZutat_20050105_094132_3086_10815" />
+      <EpoRezeptZutat_20050105_094318_14866_10464 RezeptOid="EpoRezept_20050105_094051_27826_30953" Name="Neue Rezeptzutat" Anteil="18" ZutatOid="EpoZutat_20050105_090950_7944_5763" oid="EpoRezeptZutat_20050105_094318_14866_10464" />
+      <EpoRezeptZutat_20050105_094254_4088_17880 RezeptOid="EpoRezept_20050105_094051_27826_30953" Name="Neue Rezeptzutat" Anteil="15" ZutatOid="EpoZutat_20050105_094015_10020_1033" oid="EpoRezeptZutat_20050105_094254_4088_17880" />
+      <EpoRezeptZutat_20050105_094211_13797_25496 RezeptOid="EpoRezept_20050105_094051_27826_30953" Name="Neue Rezeptzutat" Anteil="11" ZutatOid="EpoZutat_20050105_093954_24878_16378" oid="EpoRezeptZutat_20050105_094211_13797_25496" />
+      <EpoRezeptZutat_20050105_094226_17440_7084 RezeptOid="EpoRezept_20050105_094051_27826_30953" Name="Neue Rezeptzutat" Anteil="11" ZutatOid="EpoZutat_20050105_083654_13646_12051" oid="EpoRezeptZutat_20050105_094226_17440_7084" />
+      <EpoRezeptZutat_20050105_094240_8288_2357 RezeptOid="EpoRezept_20050105_094051_27826_30953" Name="Neue Rezeptzutat" Anteil="11" ZutatOid="EpoZutat_20050105_093630_10833_23457" oid="EpoRezeptZutat_20050105_094240_8288_2357" />
+    </Links>
+  </EpoRezept_20050105_094051_27826_30953>
+  <EpoRezept_20050105_094617_23018_14365 RubrikOid="EpoRubrik_0_0_10" Name="French 75" Zubereitung="Alle Zutaten bis auf den Champagner mit Eiswürfeln im Shaker einige Sekunden kräftig schütteln. durch ein Barsieb in das Glas gießen, mit eisgekühltem Champagner auffüllen und mit der Zitronenscheibe am Rand dekorieren." GlasOid="EpoGlas_0_0_5" oid="EpoRezept_20050105_094617_23018_14365">
+    <Links>
+      <EpoRezeptGarnierung_20050105_094759_18505_13233 RezeptOid="EpoRezept_20050105_094617_23018_14365" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_1" oid="EpoRezeptGarnierung_20050105_094759_18505_13233" />
+      <EpoRezeptZutat_20050105_094739_23828_26235 RezeptOid="EpoRezept_20050105_094617_23018_14365" Name="Neue Rezeptzutat" Anteil="60" ZutatOid="EpoZutat_20050105_092955_28677_6073" oid="EpoRezeptZutat_20050105_094739_23828_26235" />
+      <EpoRezeptZutat_20050105_094643_29487_6818 RezeptOid="EpoRezept_20050105_094617_23018_14365" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050105_083654_13646_12051" oid="EpoRezeptZutat_20050105_094643_29487_6818" />
+      <EpoRezeptZutat_20050105_094646_28043_2154 RezeptOid="EpoRezept_20050105_094617_23018_14365" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050102_120605_24805_24228" oid="EpoRezeptZutat_20050105_094646_28043_2154" />
+      <EpoRezeptZutat_20050105_094639_8119_6883 RezeptOid="EpoRezept_20050105_094617_23018_14365" Name="Neue Rezeptzutat" Anteil="0" ZutatOid="EpoZutat_20050105_093630_10833_23457" oid="EpoRezeptZutat_20050105_094639_8119_6883" />
+      <EpoRezeptZutat_20050105_094642_27550_10742 RezeptOid="EpoRezept_20050105_094617_23018_14365" Name="Neue Rezeptzutat" Anteil="0" ZutatOid="EpoZutat_20050105_083857_13018_4072" oid="EpoRezeptZutat_20050105_094642_27550_10742" />
+    </Links>
+  </EpoRezept_20050105_094617_23018_14365>
+  <EpoRezept_20050105_095015_9506_28700 RubrikOid="EpoRubrik_0_0_5" Name="Garibaldi" Zubereitung="Beide Zutaten direkt in ein mit Eiswürfeln gefülltes Glas geben. Umrühren und mit einer halben Orangenscheibe dekorieren." GlasOid="EpoGlas_0_0_3" oid="EpoRezept_20050105_095015_9506_28700">
+    <Links>
+      <EpoRezeptGarnierung_20050105_095101_3879_1961 RezeptOid="EpoRezept_20050105_095015_9506_28700" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_2" oid="EpoRezeptGarnierung_20050105_095101_3879_1961" />
+      <EpoRezeptZutat_20050105_095033_26366_19951 RezeptOid="EpoRezept_20050105_095015_9506_28700" Name="Neue Rezeptzutat" Anteil="46" ZutatOid="EpoZutat_20050105_093954_24878_16378" oid="EpoRezeptZutat_20050105_095033_26366_19951" />
+      <EpoRezeptZutat_20050105_095139_23158_28789 RezeptOid="EpoRezept_20050105_095015_9506_28700" Name="Neue Rezeptzutat" Anteil="33" ZutatOid="EpoZutat_20050105_090950_7944_5763" oid="EpoRezeptZutat_20050105_095139_23158_28789" />
+      <EpoRezeptZutat_20050105_095034_20871_23828 RezeptOid="EpoRezept_20050105_095015_9506_28700" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050105_083834_1236_23686" oid="EpoRezeptZutat_20050105_095034_20871_23828" />
+    </Links>
+  </EpoRezept_20050105_095015_9506_28700>
+  <EpoRezept_20050109_024211_2293_25484 RubrikOid="EpoRubrik_0_0_14" Name="Gin Fizz" Zubereitung="Alle Zutaten bis auf das Sodawasser mit Eis im Shaker kräftig schütteln. In das Glas geben, mit dem Sodawasser auffüllen und mit einer Zitronenscheibe, einer Cockatailkirsche und Trinkhalmen dekorieren." GlasOid="EpoGlas_0_0_3" oid="EpoRezept_20050109_024211_2293_25484">
+    <Links>
+      <EpoRezeptGarnierung_20050109_024602_3326_9883 RezeptOid="EpoRezept_20050109_024211_2293_25484" Menge="2" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_8" oid="EpoRezeptGarnierung_20050109_024602_3326_9883" />
+      <EpoRezeptGarnierung_20050109_024601_11152_1837 RezeptOid="EpoRezept_20050109_024211_2293_25484" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_4" oid="EpoRezeptGarnierung_20050109_024601_11152_1837" />
+      <EpoRezeptGarnierung_20050109_024601_24678_20789 RezeptOid="EpoRezept_20050109_024211_2293_25484" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_1" oid="EpoRezeptGarnierung_20050109_024601_24678_20789" />
+      <EpoRezeptZutat_20050109_024256_29815_10219 RezeptOid="EpoRezept_20050109_024211_2293_25484" Name="Neue Rezeptzutat" Anteil="40" ZutatOid="EpoZutat_20050105_094015_10020_1033" oid="EpoRezeptZutat_20050109_024256_29815_10219" />
+      <EpoRezeptZutat_20050109_024258_18777_10686 RezeptOid="EpoRezept_20050109_024211_2293_25484" Name="Neue Rezeptzutat" Anteil="30" ZutatOid="EpoZutat_20050102_120605_24805_24228" oid="EpoRezeptZutat_20050109_024258_18777_10686" />
+      <EpoRezeptZutat_20050109_024257_29434_3931 RezeptOid="EpoRezept_20050109_024211_2293_25484" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050105_083654_13646_12051" oid="EpoRezeptZutat_20050109_024257_29434_3931" />
+      <EpoRezeptZutat_20050109_024256_20869_14289 RezeptOid="EpoRezept_20050109_024211_2293_25484" Name="Neue Rezeptzutat" Anteil="10" ZutatOid="EpoZutat_20050105_093630_10833_23457" oid="EpoRezeptZutat_20050109_024256_20869_14289" />
+    </Links>
+  </EpoRezept_20050109_024211_2293_25484>
+  <EpoRezept_20050109_025142_9293_5491 RubrikOid="EpoRubrik_0_0_12" Name="Godfather" Zubereitung="Alle Zutaten direkt in das mit Eiswürfeln gefüllte Glas geben. Vorsichtig umrühren." GlasOid="EpoGlas_0_0_2" oid="EpoRezept_20050109_025142_9293_5491">
+    <Links>
+      <EpoRezeptZutat_20050109_025213_3149_7103 RezeptOid="EpoRezept_20050109_025142_9293_5491" Name="Neue Rezeptzutat" Anteil="70" ZutatOid="EpoZutat_20050102_123929_1534_5002" oid="EpoRezeptZutat_20050109_025213_3149_7103" />
+      <EpoRezeptZutat_20050109_025213_17073_8375 RezeptOid="EpoRezept_20050109_025142_9293_5491" Name="Neue Rezeptzutat" Anteil="30" ZutatOid="EpoZutat_20050105_090146_13319_31697" oid="EpoRezeptZutat_20050109_025213_17073_8375" />
+    </Links>
+  </EpoRezept_20050109_025142_9293_5491>
+  <EpoRezept_20050109_025143_10155_2481 RubrikOid="EpoRubrik_0_0_12" Name="Godmother" Zubereitung="Alle Zutaten direkt in das mit Eiswürfeln gefüllte Glas geben. Vorsichtig umrühren." GlasOid="EpoGlas_0_0_2" oid="EpoRezept_20050109_025143_10155_2481">
+    <Links>
+      <EpoRezeptZutat_20050109_025417_23116_1403 RezeptOid="EpoRezept_20050109_025143_10155_2481" Name="Neue Rezeptzutat" Anteil="70" ZutatOid="EpoZutat_20050105_083812_13983_1531" oid="EpoRezeptZutat_20050109_025417_23116_1403" />
+      <EpoRezeptZutat_20050109_025416_9784_689 RezeptOid="EpoRezept_20050109_025143_10155_2481" Name="Neue Rezeptzutat" Anteil="30" ZutatOid="EpoZutat_20050105_090146_13319_31697" oid="EpoRezeptZutat_20050109_025416_9784_689" />
+    </Links>
+  </EpoRezept_20050109_025143_10155_2481>
+  <EpoRezept_20050105_095816_10223_10783 RubrikOid="EpoRubrik_0_0_9" Name="John Collins" Zubereitung="Der Drink wird direkt im Glas zubereitet. Den Gin, den Zitronensaft, den Läuterzucker und einige Eiswürfel hineingeben, kurz umrühren und mit Soda auffüllen. Evtl. kann man noch einige Tropfen Angostura hinzufügen." GlasOid="EpoGlas_0_0_3" oid="EpoRezept_20050105_095816_10223_10783">
+    <Links>
+      <EpoRezeptGarnierung_20050105_100117_6130_6177 RezeptOid="EpoRezept_20050105_095816_10223_10783" Menge="2" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_8" oid="EpoRezeptGarnierung_20050105_100117_6130_6177" />
+      <EpoRezeptGarnierung_20050105_100117_15225_12098 RezeptOid="EpoRezept_20050105_095816_10223_10783" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_4" oid="EpoRezeptGarnierung_20050105_100117_15225_12098" />
+      <EpoRezeptGarnierung_20050105_100118_104_7641 RezeptOid="EpoRezept_20050105_095816_10223_10783" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_1" oid="EpoRezeptGarnierung_20050105_100118_104_7641" />
+      <EpoRezeptZutat_20050105_100050_17335_22076 RezeptOid="EpoRezept_20050105_095816_10223_10783" Name="Neue Rezeptzutat" Anteil="33" ZutatOid="EpoZutat_20050105_090950_7944_5763" oid="EpoRezeptZutat_20050105_100050_17335_22076" />
+      <EpoRezeptZutat_20050105_095845_14119_5550 RezeptOid="EpoRezept_20050105_095816_10223_10783" Name="Neue Rezeptzutat" Anteil="27" ZutatOid="EpoZutat_20050105_094015_10020_1033" oid="EpoRezeptZutat_20050105_095845_14119_5550" />
+      <EpoRezeptZutat_20050105_095846_8879_20057 RezeptOid="EpoRezept_20050105_095816_10223_10783" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050102_120605_24805_24228" oid="EpoRezeptZutat_20050105_095846_8879_20057" />
+      <EpoRezeptZutat_20050105_095846_29812_4670 RezeptOid="EpoRezept_20050105_095816_10223_10783" Name="Neue Rezeptzutat" Anteil="13" ZutatOid="EpoZutat_20050105_083654_13646_12051" oid="EpoRezeptZutat_20050105_095846_29812_4670" />
+      <EpoRezeptZutat_20050105_095845_526_3639 RezeptOid="EpoRezept_20050105_095816_10223_10783" Name="Neue Rezeptzutat" Anteil="7" ZutatOid="EpoZutat_20050105_093630_10833_23457" oid="EpoRezeptZutat_20050105_095845_526_3639" />
+    </Links>
+  </EpoRezept_20050105_095816_10223_10783>
+  <EpoRezept_20050109_030227_13188_6201 RubrikOid="EpoRubrik_0_0_5" Name="Long Island Ice Tea" Zubereitung="Alle Zutaten nacheinander in ein mit Eis gefülltes Glas geben. Am Schluss mit einem Dash Cola färben. Mit einer Zitronenscheibe im Glas dekorieren," GlasOid="EpoGlas_0_0_4" oid="EpoRezept_20050109_030227_13188_6201">
+    <Links>
+      <EpoRezeptGarnierung_20050109_031057_23330_15436 RezeptOid="EpoRezept_20050109_030227_13188_6201" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_1" oid="EpoRezeptGarnierung_20050109_031057_23330_15436" />
+      <EpoRezeptZutat_20050109_030252_9863_12380 RezeptOid="EpoRezept_20050109_030227_13188_6201" Name="Neue Rezeptzutat" Anteil="33" ZutatOid="EpoZutat_20050105_090950_7944_5763" oid="EpoRezeptZutat_20050109_030252_9863_12380" />
+      <EpoRezeptZutat_20050109_030247_5531_19538 RezeptOid="EpoRezept_20050109_030227_13188_6201" Name="Neue Rezeptzutat" Anteil="17" ZutatOid="EpoZutat_20050105_083812_13983_1531" oid="EpoRezeptZutat_20050109_030247_5531_19538" />
+      <EpoRezeptZutat_20050109_030244_11580_29755 RezeptOid="EpoRezept_20050109_030227_13188_6201" Name="Neue Rezeptzutat" Anteil="12" ZutatOid="EpoZutat_20050102_123838_13556_16517" oid="EpoRezeptZutat_20050109_030244_11580_29755" />
+      <EpoRezeptZutat_20050109_030245_23575_13415 RezeptOid="EpoRezept_20050109_030227_13188_6201" Name="Neue Rezeptzutat" Anteil="12" ZutatOid="EpoZutat_20050102_120605_24805_24228" oid="EpoRezeptZutat_20050109_030245_23575_13415" />
+      <EpoRezeptZutat_20050109_030245_15858_30240 RezeptOid="EpoRezept_20050109_030227_13188_6201" Name="Neue Rezeptzutat" Anteil="12" ZutatOid="EpoZutat_20050105_083711_17049_19075" oid="EpoRezeptZutat_20050109_030245_15858_30240" />
+      <EpoRezeptZutat_20050109_030246_3812_17049 RezeptOid="EpoRezept_20050109_030227_13188_6201" Name="Neue Rezeptzutat" Anteil="12" ZutatOid="EpoZutat_20050105_083654_13646_12051" oid="EpoRezeptZutat_20050109_030246_3812_17049" />
+      <EpoRezeptZutat_20050109_030244_9297_14529 RezeptOid="EpoRezept_20050109_030227_13188_6201" Name="Neue Rezeptzutat" Anteil="2" ZutatOid="EpoZutat_20050109_031014_26019_1292" oid="EpoRezeptZutat_20050109_030244_9297_14529" />
+    </Links>
+  </EpoRezept_20050109_030227_13188_6201>
+  <EpoRezept_20050102_123146_27650_22894 RubrikOid="EpoRubrik_0_0_5" Name="Mai Thai" Zubereitung="Alle Zutaten in in mit Eiswürferln gefülltes Glas gießen, gut umrühren, mit Ananasscheiben, Cocktailkirschen, Minzezweig und Trinkhalmen dekorieren." GlasOid="EpoGlas_0_0_3" oid="EpoRezept_20050102_123146_27650_22894">
+    <Links>
+      <EpoRezeptGarnierung_20050105_085155_6452_629 RezeptOid="EpoRezept_20050102_123146_27650_22894" Menge="2" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_4" oid="EpoRezeptGarnierung_20050105_085155_6452_629" />
+      <EpoRezeptGarnierung_20050105_085150_6873_6793 RezeptOid="EpoRezept_20050102_123146_27650_22894" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_10" oid="EpoRezeptGarnierung_20050105_085150_6873_6793" />
+      <EpoRezeptGarnierung_20050105_085200_30519_14145 RezeptOid="EpoRezept_20050102_123146_27650_22894" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_9" oid="EpoRezeptGarnierung_20050105_085200_30519_14145" />
+      <EpoRezeptZutat_20050105_091005_7388_2575 RezeptOid="EpoRezept_20050102_123146_27650_22894" Name="Neue Rezeptzutat" Anteil="33" ZutatOid="EpoZutat_20050105_090950_7944_5763" oid="EpoRezeptZutat_20050105_091005_7388_2575" />
+      <EpoRezeptZutat_20050105_084618_7572_25499 RezeptOid="EpoRezept_20050102_123146_27650_22894" Name="Neue Rezeptzutat" Anteil="13" ZutatOid="EpoZutat_20050105_084736_31671_17958" oid="EpoRezeptZutat_20050105_084618_7572_25499" />
+      <EpoRezeptZutat_20050105_084619_7226_15004 RezeptOid="EpoRezept_20050102_123146_27650_22894" Name="Neue Rezeptzutat" Anteil="13" ZutatOid="EpoZutat_20050105_084720_2072_29448" oid="EpoRezeptZutat_20050105_084619_7226_15004" />
+      <EpoRezeptZutat_20050105_084623_18132_31788 RezeptOid="EpoRezept_20050102_123146_27650_22894" Name="Neue Rezeptzutat" Anteil="13" ZutatOid="EpoZutat_20050102_123857_11116_6705" oid="EpoRezeptZutat_20050105_084623_18132_31788" />
+      <EpoRezeptZutat_20050105_084624_22392_14021 RezeptOid="EpoRezept_20050102_123146_27650_22894" Name="Neue Rezeptzutat" Anteil="13" ZutatOid="EpoZutat_20050102_123838_13556_16517" oid="EpoRezeptZutat_20050105_084624_22392_14021" />
+      <EpoRezeptZutat_20050105_084620_1088_2132 RezeptOid="EpoRezept_20050102_123146_27650_22894" Name="Neue Rezeptzutat" Anteil="7" ZutatOid="EpoZutat_20050105_084843_12886_28861" oid="EpoRezeptZutat_20050105_084620_1088_2132" />
+      <EpoRezeptZutat_20050105_084623_6925_17475 RezeptOid="EpoRezept_20050102_123146_27650_22894" Name="Neue Rezeptzutat" Anteil="7" ZutatOid="EpoZutat_20050105_083857_13018_4072" oid="EpoRezeptZutat_20050105_084623_6925_17475" />
+    </Links>
+  </EpoRezept_20050102_123146_27650_22894>
+  <EpoRezept_20050105_100427_30660_21262 RubrikOid="EpoRubrik_0_0_3" Name="Manhattan" Zubereitung="Die Zutaten zusammen mit einem Tropfen Angostura mit Eiswürfeln im Mixglas vorsichtig umrühren. Durch ein Barsieb in die Gläser gießen. Mit einer Cocktailkirsche im Glas dekorieren." GlasOid="EpoGlas_0_0_0" oid="EpoRezept_20050105_100427_30660_21262">
+    <Links>
+      <EpoRezeptGarnierung_20050105_100631_23381_24906 RezeptOid="EpoRezept_20050105_100427_30660_21262" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_4" oid="EpoRezeptGarnierung_20050105_100631_23381_24906" />
+      <EpoRezeptZutat_20050105_100448_11342_6474 RezeptOid="EpoRezept_20050105_100427_30660_21262" Name="Neue Rezeptzutat" Anteil="70" ZutatOid="EpoZutat_20050105_100356_25207_3361" oid="EpoRezeptZutat_20050105_100448_11342_6474" />
+      <EpoRezeptZutat_20050105_100447_28159_23869 RezeptOid="EpoRezept_20050105_100427_30660_21262" Name="Neue Rezeptzutat" Anteil="30" ZutatOid="EpoZutat_20050101_115910_28707_30963" oid="EpoRezeptZutat_20050105_100447_28159_23869" />
+      <EpoRezeptZutat_20050105_100447_2130_2872 RezeptOid="EpoRezept_20050105_100427_30660_21262" Name="Neue Rezeptzutat" Anteil="0" ZutatOid="EpoZutat_20050105_090002_9231_16209" oid="EpoRezeptZutat_20050105_100447_2130_2872" />
+    </Links>
+  </EpoRezept_20050105_100427_30660_21262>
+  <EpoRezept_20050109_031807_17649_15377 RubrikOid="EpoRubrik_0_0_3" Name="Manhattan Dry" Zubereitung="Alle Zutaten zusammen mit Eis im Mixglas vorsichtig umrühren. Durch ein Barsieb in das Glas geben und mit einer Zitronenzeste im Glas dekorieren." GlasOid="EpoGlas_0_0_0" oid="EpoRezept_20050109_031807_17649_15377">
+    <Links>
+      <EpoRezeptGarnierung_20050109_031915_12132_13880 RezeptOid="EpoRezept_20050109_031807_17649_15377" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_7" oid="EpoRezeptGarnierung_20050109_031915_12132_13880" />
+      <EpoRezeptZutat_20050109_031832_19563_21424 RezeptOid="EpoRezept_20050109_031807_17649_15377" Name="Neue Rezeptzutat" Anteil="70" ZutatOid="EpoZutat_20050105_100356_25207_3361" oid="EpoRezeptZutat_20050109_031832_19563_21424" />
+      <EpoRezeptZutat_20050109_031832_13640_31829 RezeptOid="EpoRezept_20050109_031807_17649_15377" Name="Neue Rezeptzutat" Anteil="30" ZutatOid="EpoZutat_20050101_115903_7130_6454" oid="EpoRezeptZutat_20050109_031832_13640_31829" />
+      <EpoRezeptZutat_20050109_031832_1548_1696 RezeptOid="EpoRezept_20050109_031807_17649_15377" Name="Neue Rezeptzutat" Anteil="0" ZutatOid="EpoZutat_20050105_090002_9231_16209" oid="EpoRezeptZutat_20050109_031832_1548_1696" />
+    </Links>
+  </EpoRezept_20050109_031807_17649_15377>
+  <EpoRezept_20050109_032246_15933_27527 RubrikOid="EpoRubrik_0_0_3" Name="Manhattan Perfect" Zubereitung="Alle Zutaten zusammen mit Eis im Mixglas vorsichtig umrühren. Durch ein Barsieb in das Glas geben und mit einer Cocktailkirsche im Glas dekorieren." GlasOid="EpoGlas_0_0_0" oid="EpoRezept_20050109_032246_15933_27527">
+    <Links>
+      <EpoRezeptGarnierung_20050109_032313_8558_31789 RezeptOid="EpoRezept_20050109_032246_15933_27527" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_4" oid="EpoRezeptGarnierung_20050109_032313_8558_31789" />
+      <EpoRezeptZutat_20050109_032310_29432_29707 RezeptOid="EpoRezept_20050109_032246_15933_27527" Name="Neue Rezeptzutat" Anteil="60" ZutatOid="EpoZutat_20050105_100356_25207_3361" oid="EpoRezeptZutat_20050109_032310_29432_29707" />
+      <EpoRezeptZutat_20050109_032309_1367_24554 RezeptOid="EpoRezept_20050109_032246_15933_27527" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050101_115910_28707_30963" oid="EpoRezeptZutat_20050109_032309_1367_24554" />
+      <EpoRezeptZutat_20050109_032309_22549_19489 RezeptOid="EpoRezept_20050109_032246_15933_27527" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050101_115903_7130_6454" oid="EpoRezeptZutat_20050109_032309_22549_19489" />
+    </Links>
+  </EpoRezept_20050109_032246_15933_27527>
+  <EpoRezept_20050121_073051_4929_30019 RubrikOid="EpoRubrik_0_0_3" Name="Margarita" Zubereitung="Den Glasrand mit einer Zitronenscheibe befeuchten und in einen mit Salz bestreuten Teller stellen, so daß sich ein Salzrand bildet. Alle Zutaten mit Eiswürfeln im Shaker einige Sekunden kräftig schütteln und dann durch ein Barsieb in das präparierte Glas gießen. " GlasOid="EpoGlas_0_0_0" oid="EpoRezept_20050121_073051_4929_30019">
+    <Links>
+      <EpoRezeptGarnierung_20050121_073442_27391_2424 RezeptOid="EpoRezept_20050121_073051_4929_30019" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_3" oid="EpoRezeptGarnierung_20050121_073442_27391_2424" />
+      <EpoRezeptZutat_20050121_073120_21856_25658 RezeptOid="EpoRezept_20050121_073051_4929_30019" Name="Neue Rezeptzutat" Anteil="50" ZutatOid="EpoZutat_20050105_083711_17049_19075" oid="EpoRezeptZutat_20050121_073120_21856_25658" />
+      <EpoRezeptZutat_20050121_073120_3102_10632 RezeptOid="EpoRezept_20050121_073051_4929_30019" Name="Neue Rezeptzutat" Anteil="30" ZutatOid="EpoZutat_20050105_090038_28677_10384" oid="EpoRezeptZutat_20050121_073120_3102_10632" />
+      <EpoRezeptZutat_20050121_073119_3034_6549 RezeptOid="EpoRezept_20050121_073051_4929_30019" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050105_083654_13646_12051" oid="EpoRezeptZutat_20050121_073119_3034_6549" />
+    </Links>
+  </EpoRezept_20050121_073051_4929_30019>
+  <EpoRezept_20050105_100849_29257_31603 RubrikOid="EpoRubrik_0_0_12" Name="Negroni" Zubereitung="Alle Zutaten direkt in das mit Eis gefüllte Glas gießen, kurz umrühren und mit der Orangenscheibe im Glas dekorieren." GlasOid="EpoGlas_0_0_2" oid="EpoRezept_20050105_100849_29257_31603">
+    <Links>
+      <EpoRezeptGarnierung_20050105_100958_23995_11980 RezeptOid="EpoRezept_20050105_100849_29257_31603" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_2" oid="EpoRezeptGarnierung_20050105_100958_23995_11980" />
+      <EpoRezeptZutat_20050105_100901_24217_29897 RezeptOid="EpoRezept_20050105_100849_29257_31603" Name="Neue Rezeptzutat" Anteil="33" ZutatOid="EpoZutat_20050105_083834_1236_23686" oid="EpoRezeptZutat_20050105_100901_24217_29897" />
+      <EpoRezeptZutat_20050105_100903_5662_28978 RezeptOid="EpoRezept_20050105_100849_29257_31603" Name="Neue Rezeptzutat" Anteil="33" ZutatOid="EpoZutat_20050101_115910_28707_30963" oid="EpoRezeptZutat_20050105_100903_5662_28978" />
+      <EpoRezeptZutat_20050105_100903_569_6304 RezeptOid="EpoRezept_20050105_100849_29257_31603" Name="Neue Rezeptzutat" Anteil="33" ZutatOid="EpoZutat_20050102_120605_24805_24228" oid="EpoRezeptZutat_20050105_100903_569_6304" />
+    </Links>
+  </EpoRezept_20050105_100849_29257_31603>
+  <EpoRezept_20050122_070438_3638_29746 RubrikOid="EpoRubrik_0_0_12" Name="Old Fashioned" Zubereitung="Den mit 2 - 3 Tropfen Angostura getränkten Würfelzucker in das Glas geben. Das Sodawasser zugeben und den Würfelzucker zerstoßen. Die Zitronenscheibe, die halbe Orangenscheibe und die Cocktailkirsche zugeben. Das Glas mit Eis füllen. Nun den Whiskey hinzugeben und vorsichtig umrühren. Den Stirrer im Glas belassen. Anstelle von Bourbon Whiskey kann auch jede andere gewünschte Whiskey Sorte verwendet werden." GlasOid="EpoGlas_0_0_2" oid="EpoRezept_20050122_070438_3638_29746">
+    <Links>
+      <EpoRezeptGarnierung_20050122_071127_14531_2734 RezeptOid="EpoRezept_20050122_070438_3638_29746" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_2" oid="EpoRezeptGarnierung_20050122_071127_14531_2734" />
+      <EpoRezeptGarnierung_20050122_070656_20822_12307 RezeptOid="EpoRezept_20050122_070438_3638_29746" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_1" oid="EpoRezeptGarnierung_20050122_070656_20822_12307" />
+      <EpoRezeptGarnierung_20050122_070656_22768_18893 RezeptOid="EpoRezept_20050122_070438_3638_29746" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_4" oid="EpoRezeptGarnierung_20050122_070656_22768_18893" />
+      <EpoRezeptZutat_20050122_070726_28615_12090 RezeptOid="EpoRezept_20050122_070438_3638_29746" Name="Neue Rezeptzutat" Anteil="50" ZutatOid="EpoZutat_20050105_090950_7944_5763" oid="EpoRezeptZutat_20050122_070726_28615_12090" />
+      <EpoRezeptZutat_20050122_070519_4063_15814 RezeptOid="EpoRezept_20050122_070438_3638_29746" Name="Neue Rezeptzutat" Anteil="45" ZutatOid="EpoZutat_20050105_101739_25247_5425" oid="EpoRezeptZutat_20050122_070519_4063_15814" />
+      <EpoRezeptZutat_20050122_070518_2284_18295 RezeptOid="EpoRezept_20050122_070438_3638_29746" Name="Neue Rezeptzutat" Anteil="5" ZutatOid="EpoZutat_20050105_094015_10020_1033" oid="EpoRezeptZutat_20050122_070518_2284_18295" />
+      <EpoRezeptZutat_20050122_070519_25175_28280 RezeptOid="EpoRezept_20050122_070438_3638_29746" Name="Neue Rezeptzutat" Anteil="0" ZutatOid="EpoZutat_20050122_070603_22723_800" oid="EpoRezeptZutat_20050122_070519_25175_28280" />
+    </Links>
+  </EpoRezept_20050122_070438_3638_29746>
+  <EpoRezept_20050121_071225_14651_16631 RubrikOid="EpoRubrik_0_0_5" Name="Palm Beach" Zubereitung="Alle Zutaten mit Eiswürfeln kräftig schütteln, dann Alles in das Glas gießen. Also auch das Eis. Mit einer halben Anasscheibe und Trinkhalmen dekorieren." GlasOid="EpoGlas_0_0_3" oid="EpoRezept_20050121_071225_14651_16631">
+    <Links>
+      <EpoRezeptGarnierung_20050121_071526_3106_11169 RezeptOid="EpoRezept_20050121_071225_14651_16631" Menge="2" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_8" oid="EpoRezeptGarnierung_20050121_071526_3106_11169" />
+      <EpoRezeptGarnierung_20050121_071526_14519_3174 RezeptOid="EpoRezept_20050121_071225_14651_16631" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_9" oid="EpoRezeptGarnierung_20050121_071526_14519_3174" />
+      <EpoRezeptZutat_20050121_071307_6404_24271 RezeptOid="EpoRezept_20050121_071225_14651_16631" Name="Neue Rezeptzutat" Anteil="40" ZutatOid="EpoZutat_20050109_015251_2438_16563" oid="EpoRezeptZutat_20050121_071307_6404_24271" />
+      <EpoRezeptZutat_20050121_071754_4708_27804 RezeptOid="EpoRezept_20050121_071225_14651_16631" Name="Neue Rezeptzutat" Anteil="33" ZutatOid="EpoZutat_20050105_090950_7944_5763" oid="EpoRezeptZutat_20050121_071754_4708_27804" />
+      <EpoRezeptZutat_20050121_071308_9218_1978 RezeptOid="EpoRezept_20050121_071225_14651_16631" Name="Neue Rezeptzutat" Anteil="13" ZutatOid="EpoZutat_20050102_120605_24805_24228" oid="EpoRezeptZutat_20050121_071308_9218_1978" />
+      <EpoRezeptZutat_20050121_071308_6907_19987 RezeptOid="EpoRezept_20050121_071225_14651_16631" Name="Neue Rezeptzutat" Anteil="13" ZutatOid="EpoZutat_20050105_083834_1236_23686" oid="EpoRezeptZutat_20050121_071308_6907_19987" />
+    </Links>
+  </EpoRezept_20050121_071225_14651_16631>
+  <EpoRezept_20090222_101545_6819_29011 RubrikOid="EpoRubrik_0_0_3" Name="Paradise" Zubereitung="Den Orangensaft filtrieren und zusammen mit den anderen Zutaten und Eiswürfeln im Shaker einige Sekunden kräftig schütteln. Durch ein Barsieb in das Glas gießen." GlasOid="EpoGlas_0_0_0" oid="EpoRezept_20090222_101545_6819_29011">
+    <Links>
+      <EpoRezeptZutat_20090222_101614_181_11267 RezeptOid="EpoRezept_20090222_101545_6819_29011" Name="Neue Rezeptzutat" Anteil="50" ZutatOid="EpoZutat_20050102_120605_24805_24228" oid="EpoRezeptZutat_20090222_101614_181_11267" />
+      <EpoRezeptZutat_20090222_101557_31270_19909 RezeptOid="EpoRezept_20090222_101545_6819_29011" Name="Neue Rezeptzutat" Anteil="30" ZutatOid="EpoZutat_20090222_101504_13068_24371" oid="EpoRezeptZutat_20090222_101557_31270_19909" />
+      <EpoRezeptZutat_20090222_101632_9532_29341 RezeptOid="EpoRezept_20090222_101545_6819_29011" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050105_093954_24878_16378" oid="EpoRezeptZutat_20090222_101632_9532_29341" />
+    </Links>
+  </EpoRezept_20090222_101545_6819_29011>
+  <EpoRezept_20050105_101215_30072_29749 RubrikOid="EpoRubrik_0_0_9" Name="Pepito Collins" Zubereitung="Der Drink wird direkt im Glas zubereitet. Den Tequila, den Zitronensaft, den Läuterzucker und einige Eiswürfel hineingeben, kurz umrühren und mit Soda auffüllen. Evtl. kann man noch einige Tropfen Angostura hinzufügen." GlasOid="EpoGlas_0_0_3" oid="EpoRezept_20050105_101215_30072_29749">
+    <Links>
+      <EpoRezeptGarnierung_20050105_101326_29279_31694 RezeptOid="EpoRezept_20050105_101215_30072_29749" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_4" oid="EpoRezeptGarnierung_20050105_101326_29279_31694" />
+      <EpoRezeptGarnierung_20050105_101326_982_25598 RezeptOid="EpoRezept_20050105_101215_30072_29749" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_1" oid="EpoRezeptGarnierung_20050105_101326_982_25598" />
+      <EpoRezeptZutat_20050129_044120_22857_30537 RezeptOid="EpoRezept_20050105_101215_30072_29749" Name="Neue Rezeptzutat" Anteil="50" ZutatOid="EpoZutat_20050105_090950_7944_5763" oid="EpoRezeptZutat_20050129_044120_22857_30537" />
+      <EpoRezeptZutat_20050105_101229_8845_2502 RezeptOid="EpoRezept_20050105_101215_30072_29749" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050105_094015_10020_1033" oid="EpoRezeptZutat_20050105_101229_8845_2502" />
+      <EpoRezeptZutat_20050105_101231_20496_27507 RezeptOid="EpoRezept_20050105_101215_30072_29749" Name="Neue Rezeptzutat" Anteil="15" ZutatOid="EpoZutat_20050105_083711_17049_19075" oid="EpoRezeptZutat_20050105_101231_20496_27507" />
+      <EpoRezeptZutat_20050105_101231_24132_29425 RezeptOid="EpoRezept_20050105_101215_30072_29749" Name="Neue Rezeptzutat" Anteil="10" ZutatOid="EpoZutat_20050105_083654_13646_12051" oid="EpoRezeptZutat_20050105_101231_24132_29425" />
+      <EpoRezeptZutat_20050105_101231_18639_26704 RezeptOid="EpoRezept_20050105_101215_30072_29749" Name="Neue Rezeptzutat" Anteil="5" ZutatOid="EpoZutat_20050105_093630_10833_23457" oid="EpoRezeptZutat_20050105_101231_18639_26704" />
+    </Links>
+  </EpoRezept_20050105_101215_30072_29749>
+  <EpoRezept_20050105_061241_31314_18067 RubrikOid="EpoRubrik_0_0_3" Name="Perfect Martini" Zubereitung="Alle Zutaten zusammen mit genügend Eiswürfeln in einen Cocktailshaker geben, vorsichtig umrühren und in das Glas füllen. Mit einer Cocktailkirsche garnieren." GlasOid="EpoGlas_0_0_0" oid="EpoRezept_20050105_061241_31314_18067">
+    <Links>
+      <EpoRezeptGarnierung_20050105_061319_30113_259 RezeptOid="EpoRezept_20050105_061241_31314_18067" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_4" oid="EpoRezeptGarnierung_20050105_061319_30113_259" />
+      <EpoRezeptZutat_20050105_061257_18802_9610 RezeptOid="EpoRezept_20050105_061241_31314_18067" Name="Neue Rezeptzutat" Anteil="70" ZutatOid="EpoZutat_20050102_120605_24805_24228" oid="EpoRezeptZutat_20050105_061257_18802_9610" />
+      <EpoRezeptZutat_20050105_061256_15653_16455 RezeptOid="EpoRezept_20050105_061241_31314_18067" Name="Neue Rezeptzutat" Anteil="15" ZutatOid="EpoZutat_20050101_115903_7130_6454" oid="EpoRezeptZutat_20050105_061256_15653_16455" />
+      <EpoRezeptZutat_20050105_061256_8827_18624 RezeptOid="EpoRezept_20050105_061241_31314_18067" Name="Neue Rezeptzutat" Anteil="15" ZutatOid="EpoZutat_20050101_115910_28707_30963" oid="EpoRezeptZutat_20050105_061256_8827_18624" />
+    </Links>
+  </EpoRezept_20050105_061241_31314_18067>
+  <EpoRezept_20050109_011328_26085_15562 RubrikOid="EpoRubrik_0_0_8" Name="Pina Colada" Zubereitung="Alle Zutaten mit zerstoßenem Eis im Blender 15 bis 20 Sekunden mixen. In ein Glas füllen und mit einer Ananasscheibe, Cocktailkirsche und Trinkhalmen dekorieren." GlasOid="EpoGlas_0_0_10" oid="EpoRezept_20050109_011328_26085_15562">
+    <Links>
+      <EpoRezeptGarnierung_20050109_015453_19708_11818 RezeptOid="EpoRezept_20050109_011328_26085_15562" Menge="2" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_8" oid="EpoRezeptGarnierung_20050109_015453_19708_11818" />
+      <EpoRezeptGarnierung_20050109_015454_15187_29873 RezeptOid="EpoRezept_20050109_011328_26085_15562" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_4" oid="EpoRezeptGarnierung_20050109_015454_15187_29873" />
+      <EpoRezeptGarnierung_20050109_015455_21215_7861 RezeptOid="EpoRezept_20050109_011328_26085_15562" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_9" oid="EpoRezeptGarnierung_20050109_015455_21215_7861" />
+      <EpoRezeptZutat_20050109_015150_26529_4306 RezeptOid="EpoRezept_20050109_011328_26085_15562" Name="Neue Rezeptzutat" Anteil="50" ZutatOid="EpoZutat_20050109_015251_2438_16563" oid="EpoRezeptZutat_20050109_015150_26529_4306" />
+      <EpoRezeptZutat_20050109_015151_27104_4661 RezeptOid="EpoRezept_20050109_011328_26085_15562" Name="Neue Rezeptzutat" Anteil="30" ZutatOid="EpoZutat_20050102_123838_13556_16517" oid="EpoRezeptZutat_20050109_015151_27104_4661" />
+      <EpoRezeptZutat_20050109_015125_5574_4893 RezeptOid="EpoRezept_20050109_011328_26085_15562" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050109_015100_7761_25231" oid="EpoRezeptZutat_20050109_015125_5574_4893" />
+    </Links>
+  </EpoRezept_20050109_011328_26085_15562>
+  <EpoRezept_20050219_070327_15085_23142 RubrikOid="EpoRubrik_0_0_8" Name="Pinky Colada" Zubereitung="Alle Zutaten mit dem zerstoßenem Eis im Blender auf höchster Stufe etwa 20 Sekunden mixen. In ein Glas füllen. Mit der Ananasscheibe, Cocktailkirschen und den Trinkhalmen verzieren.&#xD;&#xA;&#xD;&#xA;Grenadine = 1 Dash" GlasOid="EpoGlas_0_0_4" oid="EpoRezept_20050219_070327_15085_23142">
+    <Links>
+      <EpoRezeptZutat_20050219_071022_16459_14645 RezeptOid="EpoRezept_20050219_070327_15085_23142" Name="Neue Rezeptzutat" Anteil="50" ZutatOid="EpoZutat_20050129_050254_1556_26583" oid="EpoRezeptZutat_20050219_071022_16459_14645" />
+      <EpoRezeptZutat_20050219_070453_18227_14672 RezeptOid="EpoRezept_20050219_070327_15085_23142" Name="Neue Rezeptzutat" Anteil="14" ZutatOid="EpoZutat_20050219_065505_26143_3300" oid="EpoRezeptZutat_20050219_070453_18227_14672" />
+      <EpoRezeptZutat_20050219_070455_8627_22680 RezeptOid="EpoRezept_20050219_070327_15085_23142" Name="Neue Rezeptzutat" Anteil="13" ZutatOid="EpoZutat_20050102_123838_13556_16517" oid="EpoRezeptZutat_20050219_070455_8627_22680" />
+      <EpoRezeptZutat_20050219_070455_26357_25131 RezeptOid="EpoRezept_20050219_070327_15085_23142" Name="Neue Rezeptzutat" Anteil="7" ZutatOid="EpoZutat_20050102_123857_11116_6705" oid="EpoRezeptZutat_20050219_070455_26357_25131" />
+      <EpoRezeptZutat_20050219_070455_8960_18156 RezeptOid="EpoRezept_20050219_070327_15085_23142" Name="Neue Rezeptzutat" Anteil="7" ZutatOid="EpoZutat_20050109_015251_2438_16563" oid="EpoRezeptZutat_20050219_070455_8960_18156" />
+      <EpoRezeptZutat_20050219_070454_8444_28058 RezeptOid="EpoRezept_20050219_070327_15085_23142" Name="Neue Rezeptzutat" Anteil="7" ZutatOid="EpoZutat_20050404_124148_17237_30484" oid="EpoRezeptZutat_20050219_070454_8444_28058" />
+      <EpoRezeptZutat_20050219_070454_29772_31620 RezeptOid="EpoRezept_20050219_070327_15085_23142" Name="Neue Rezeptzutat" Anteil="7" ZutatOid="EpoZutat_20050404_124100_20942_17890" oid="EpoRezeptZutat_20050219_070454_29772_31620" />
+      <EpoRezeptZutat_20050219_070453_439_15958 RezeptOid="EpoRezept_20050219_070327_15085_23142" Name="Neue Rezeptzutat" Anteil="0" ZutatOid="EpoZutat_20050105_083857_13018_4072" oid="EpoRezeptZutat_20050219_070453_439_15958" />
+    </Links>
+  </EpoRezept_20050219_070327_15085_23142>
+  <EpoRezept_20050219_071246_31629_28751 RubrikOid="EpoRubrik_0_0_5" Name="Planters Punch" Zubereitung="Die Zutaten bis auf das Sodawasser mit Eiswürfeln im Shaker einige Sekunden kräftig schütteln. Durch ein Barsieb in das mit Eiswürfeln gefüllte Glas gießen. Mit Sodawasser auffüllen und mit den Orangenscheiben, einer Zitronenscheibenscheibe und den Trinkhalmen dekorieren. &#xD;&#xA;Der Drink kann alternativ auch direkt im mit Eis gefüllten Tumbler zubereitet werden. Dazu den Rum, den Zitronensaft und den Grenadinesirup hinzugeben, kurz umrühren und dann mit Soda auffüllen. Anschließen wie oben beschrieben dekorieren. " GlasOid="EpoGlas_0_0_3" oid="EpoRezept_20050219_071246_31629_28751">
+    <Links>
+      <EpoRezeptGarnierung_20050219_071528_29605_1124 RezeptOid="EpoRezept_20050219_071246_31629_28751" Menge="2" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_2" oid="EpoRezeptGarnierung_20050219_071528_29605_1124" />
+      <EpoRezeptGarnierung_20050219_071527_27863_20808 RezeptOid="EpoRezept_20050219_071246_31629_28751" Menge="2" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_8" oid="EpoRezeptGarnierung_20050219_071527_27863_20808" />
+      <EpoRezeptGarnierung_20050219_071528_10215_6691 RezeptOid="EpoRezept_20050219_071246_31629_28751" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_1" oid="EpoRezeptGarnierung_20050219_071528_10215_6691" />
+      <EpoRezeptZutat_20050219_071326_23832_10520 RezeptOid="EpoRezept_20050219_071246_31629_28751" Name="Neue Rezeptzutat" Anteil="30" ZutatOid="EpoZutat_20050102_123857_11116_6705" oid="EpoRezeptZutat_20050219_071326_23832_10520" />
+      <EpoRezeptZutat_20050219_072008_29746_19851 RezeptOid="EpoRezept_20050219_071246_31629_28751" Name="Neue Rezeptzutat" Anteil="25" ZutatOid="EpoZutat_20050105_090950_7944_5763" oid="EpoRezeptZutat_20050219_072008_29746_19851" />
+      <EpoRezeptZutat_20050219_071324_29778_29467 RezeptOid="EpoRezept_20050219_071246_31629_28751" Name="Neue Rezeptzutat" Anteil="25" ZutatOid="EpoZutat_20050105_094015_10020_1033" oid="EpoRezeptZutat_20050219_071324_29778_29467" />
+      <EpoRezeptZutat_20050219_071325_11004_14606 RezeptOid="EpoRezept_20050219_071246_31629_28751" Name="Neue Rezeptzutat" Anteil="15" ZutatOid="EpoZutat_20050105_083654_13646_12051" oid="EpoRezeptZutat_20050219_071325_11004_14606" />
+      <EpoRezeptZutat_20050219_071324_11489_13744 RezeptOid="EpoRezept_20050219_071246_31629_28751" Name="Neue Rezeptzutat" Anteil="5" ZutatOid="EpoZutat_20050105_083857_13018_4072" oid="EpoRezeptZutat_20050219_071324_11489_13744" />
+    </Links>
+  </EpoRezept_20050219_071246_31629_28751>
+  <EpoRezept_20050321_091225_4310_19963 RubrikOid="EpoRubrik_0_0_9" Name="Sandy Collins" Zubereitung="Alles außer dem Sodawasser zusammen im Glas mit den Eiswürfeln verrühren. Dann mit dem Sodawasser auffüllen. Die Dekoartionen auf eine Spieß stecken und über den Glasrand legen." GlasOid="EpoGlas_0_0_3" oid="EpoRezept_20050321_091225_4310_19963">
+    <Links>
+      <EpoRezeptGarnierung_20050321_093944_10109_27785 RezeptOid="EpoRezept_20050321_091225_4310_19963" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_4" oid="EpoRezeptGarnierung_20050321_093944_10109_27785" />
+      <EpoRezeptGarnierung_20050321_093945_18584_24872 RezeptOid="EpoRezept_20050321_091225_4310_19963" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_1" oid="EpoRezeptGarnierung_20050321_093945_18584_24872" />
+      <EpoRezeptZutat_20050321_093926_26405_7886 RezeptOid="EpoRezept_20050321_091225_4310_19963" Name="Neue Rezeptzutat" Anteil="50" ZutatOid="EpoZutat_20050105_090950_7944_5763" oid="EpoRezeptZutat_20050321_093926_26405_7886" />
+      <EpoRezeptZutat_20050321_091255_23465_25576 RezeptOid="EpoRezept_20050321_091225_4310_19963" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050102_123929_1534_5002" oid="EpoRezeptZutat_20050321_091255_23465_25576" />
+      <EpoRezeptZutat_20050321_091250_3014_3978 RezeptOid="EpoRezept_20050321_091225_4310_19963" Name="Neue Rezeptzutat" Anteil="15" ZutatOid="EpoZutat_20050105_094015_10020_1033" oid="EpoRezeptZutat_20050321_091250_3014_3978" />
+      <EpoRezeptZutat_20050321_091253_23971_10196 RezeptOid="EpoRezept_20050321_091225_4310_19963" Name="Neue Rezeptzutat" Anteil="10" ZutatOid="EpoZutat_20050105_083654_13646_12051" oid="EpoRezeptZutat_20050321_091253_23971_10196" />
+      <EpoRezeptZutat_20050321_091253_3023_11928 RezeptOid="EpoRezept_20050321_091225_4310_19963" Name="Neue Rezeptzutat" Anteil="5" ZutatOid="EpoZutat_20050105_093630_10833_23457" oid="EpoRezeptZutat_20050321_091253_3023_11928" />
+    </Links>
+  </EpoRezept_20050321_091225_4310_19963>
+  <EpoRezept_20050109_015938_14089_22397 RubrikOid="EpoRubrik_0_0_5" Name="Screwdriver" Zubereitung="Die Zutaten in ein mit Eiswürfeln gefülltes Glas geben, kurz umrühren und mit einer Orangenscheibe und Trinkhalmen dekorieren." GlasOid="EpoGlas_0_0_3" oid="EpoRezept_20050109_015938_14089_22397">
+    <Links>
+      <EpoRezeptGarnierung_20050109_020214_6379_30741 RezeptOid="EpoRezept_20050109_015938_14089_22397" Menge="2" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_8" oid="EpoRezeptGarnierung_20050109_020214_6379_30741" />
+      <EpoRezeptGarnierung_20050109_020215_4970_12392 RezeptOid="EpoRezept_20050109_015938_14089_22397" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_2" oid="EpoRezeptGarnierung_20050109_020215_4970_12392" />
+      <EpoRezeptZutat_20050109_020001_30102_22386 RezeptOid="EpoRezept_20050109_015938_14089_22397" Name="Neue Rezeptzutat" Anteil="47" ZutatOid="EpoZutat_20050105_093954_24878_16378" oid="EpoRezeptZutat_20050109_020001_30102_22386" />
+      <EpoRezeptZutat_20050109_020037_18908_4000 RezeptOid="EpoRezept_20050109_015938_14089_22397" Name="Neue Rezeptzutat" Anteil="33" ZutatOid="EpoZutat_20050105_090950_7944_5763" oid="EpoRezeptZutat_20050109_020037_18908_4000" />
+      <EpoRezeptZutat_20050109_020002_28971_21959 RezeptOid="EpoRezept_20050109_015938_14089_22397" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050105_083812_13983_1531" oid="EpoRezeptZutat_20050109_020002_28971_21959" />
+    </Links>
+  </EpoRezept_20050109_015938_14089_22397>
+  <EpoRezept_20050109_021953_7912_31356 RubrikOid="EpoRubrik_0_0_5" Name="Shirley Temple" Zubereitung="Die Zutaten in ein mit Eiswürfeln gefülltes Glas geben verrühren und mit Cocktailkirschen und Trinkhalmen dekorieren." GlasOid="EpoGlas_0_0_3" oid="EpoRezept_20050109_021953_7912_31356">
+    <Links>
+      <EpoRezeptGarnierung_20050109_022152_25695_26861 RezeptOid="EpoRezept_20050109_021953_7912_31356" Menge="2" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_8" oid="EpoRezeptGarnierung_20050109_022152_25695_26861" />
+      <EpoRezeptGarnierung_20050109_022153_7540_30381 RezeptOid="EpoRezept_20050109_021953_7912_31356" Menge="2" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_4" oid="EpoRezeptGarnierung_20050109_022153_7540_30381" />
+      <EpoRezeptZutat_20050109_022101_28997_7504 RezeptOid="EpoRezept_20050109_021953_7912_31356" Name="Neue Rezeptzutat" Anteil="60" ZutatOid="EpoZutat_20050109_022215_20809_28164" oid="EpoRezeptZutat_20050109_022101_28997_7504" />
+      <EpoRezeptZutat_20050109_024050_14425_15658 RezeptOid="EpoRezept_20050109_021953_7912_31356" Name="Neue Rezeptzutat" Anteil="33" ZutatOid="EpoZutat_20050105_090950_7944_5763" oid="EpoRezeptZutat_20050109_024050_14425_15658" />
+      <EpoRezeptZutat_20050109_022102_9702_27702 RezeptOid="EpoRezept_20050109_021953_7912_31356" Name="Neue Rezeptzutat" Anteil="3" ZutatOid="EpoZutat_20050105_083857_13018_4072" oid="EpoRezeptZutat_20050109_022102_9702_27702" />
+    </Links>
+  </EpoRezept_20050109_021953_7912_31356>
+  <EpoRezept_20050105_055725_26030_17524 RubrikOid="EpoRubrik_0_0_3" Name="Sweet Martini" Zubereitung="Alle Zutaten zusammen mit genügend Eiswürfeln in einen Cocktailshaker geben, vorsichtig umrühren und in das Glas füllen. Mit einer Cocktailkirsche garnieren." GlasOid="EpoGlas_0_0_0" oid="EpoRezept_20050105_055725_26030_17524">
+    <Links>
+      <EpoRezeptGarnierung_20050105_060032_29528_30099 RezeptOid="EpoRezept_20050105_055725_26030_17524" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_4" oid="EpoRezeptGarnierung_20050105_060032_29528_30099" />
+      <EpoRezeptZutat_20050105_060014_23993_7160 RezeptOid="EpoRezept_20050105_055725_26030_17524" Name="Neue Rezeptzutat" Anteil="70" ZutatOid="EpoZutat_20050102_120605_24805_24228" oid="EpoRezeptZutat_20050105_060014_23993_7160" />
+      <EpoRezeptZutat_20050105_060015_14255_26401 RezeptOid="EpoRezept_20050105_055725_26030_17524" Name="Neue Rezeptzutat" Anteil="30" ZutatOid="EpoZutat_20050101_115910_28707_30963" oid="EpoRezeptZutat_20050105_060015_14255_26401" />
+    </Links>
+  </EpoRezept_20050105_055725_26030_17524>
+  <EpoRezept_20050512_043152_30779_29874 RubrikOid="EpoRubrik_0_0_3" Name="Sweety" Zubereitung="Alles gut  mit Eis shaken und in eine Cocktailschale seihen. Die Kirsche an den Rand stecken." GlasOid="EpoGlas_0_0_1" oid="EpoRezept_20050512_043152_30779_29874">
+    <Links>
+      <EpoRezeptGarnierung_20050512_043313_13856_13416 RezeptOid="EpoRezept_20050512_043152_30779_29874" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_4" oid="EpoRezeptGarnierung_20050512_043313_13856_13416" />
+      <EpoRezeptZutat_20050512_043203_22044_13323 RezeptOid="EpoRezept_20050512_043152_30779_29874" Name="Neue Rezeptzutat" Anteil="45" ZutatOid="EpoZutat_20050105_093954_24878_16378" oid="EpoRezeptZutat_20050512_043203_22044_13323" />
+      <EpoRezeptZutat_20050512_043204_18676_504 RezeptOid="EpoRezept_20050512_043152_30779_29874" Name="Neue Rezeptzutat" Anteil="45" ZutatOid="EpoZutat_20050109_015251_2438_16563" oid="EpoRezeptZutat_20050512_043204_18676_504" />
+      <EpoRezeptZutat_20050512_043203_18953_21504 RezeptOid="EpoRezept_20050512_043152_30779_29874" Name="Neue Rezeptzutat" Anteil="10" ZutatOid="EpoZutat_20050105_083857_13018_4072" oid="EpoRezeptZutat_20050512_043203_18953_21504" />
+    </Links>
+  </EpoRezept_20050512_043152_30779_29874>
+  <EpoRezept_20050109_023520_21831_31282 RubrikOid="EpoRubrik_0_0_5" Name="Tequila Sunrise" Zubereitung="Der Cocktail wird direkt im mit Eiswürfeln gefüllten Glas zubereitet. Zuerst gibt man den Tequila und den frisch gepressten Orangensaft hinein und rührt leicht um. Erst dann lässt man den Grenadinesirup so hineinlaufen, dass dieser zu Boden sinkt und einen Farbverlauf erzeugt. Mit einer Orangenscheibe, einer Cocktailkirsche und Trinkhalmen dekorieren." GlasOid="EpoGlas_0_0_3" oid="EpoRezept_20050109_023520_21831_31282">
+    <Links>
+      <EpoRezeptGarnierung_20050109_023929_1723_13226 RezeptOid="EpoRezept_20050109_023520_21831_31282" Menge="2" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_8" oid="EpoRezeptGarnierung_20050109_023929_1723_13226" />
+      <EpoRezeptGarnierung_20050109_023930_26465_27451 RezeptOid="EpoRezept_20050109_023520_21831_31282" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_4" oid="EpoRezeptGarnierung_20050109_023930_26465_27451" />
+      <EpoRezeptGarnierung_20050109_023930_28065_474 RezeptOid="EpoRezept_20050109_023520_21831_31282" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_2" oid="EpoRezeptGarnierung_20050109_023930_28065_474" />
+      <EpoRezeptZutat_20050109_023541_23424_23034 RezeptOid="EpoRezept_20050109_023520_21831_31282" Name="Neue Rezeptzutat" Anteil="40" ZutatOid="EpoZutat_20050105_093954_24878_16378" oid="EpoRezeptZutat_20050109_023541_23424_23034" />
+      <EpoRezeptZutat_20050109_023542_29667_25726 RezeptOid="EpoRezept_20050109_023520_21831_31282" Name="Neue Rezeptzutat" Anteil="33" ZutatOid="EpoZutat_20050105_090950_7944_5763" oid="EpoRezeptZutat_20050109_023542_29667_25726" />
+      <EpoRezeptZutat_20050109_023541_19865_3012 RezeptOid="EpoRezept_20050109_023520_21831_31282" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050105_083711_17049_19075" oid="EpoRezeptZutat_20050109_023541_19865_3012" />
+      <EpoRezeptZutat_20050109_023712_14798_8542 RezeptOid="EpoRezept_20050109_023520_21831_31282" Name="Neue Rezeptzutat" Anteil="3" ZutatOid="EpoZutat_20050105_083857_13018_4072" oid="EpoRezeptZutat_20050109_023712_14798_8542" />
+    </Links>
+  </EpoRezept_20050109_023520_21831_31282>
+  <EpoRezept_20050512_043411_22069_6820 RubrikOid="EpoRubrik_0_0_8" Name="Virgin Colada" Zubereitung="Die Zutaten bis auf das Eis im Shaker mit Eiswürfeln gut schütteln und in ein Longdrinkglas auf Crushed Ice abseihen." GlasOid="EpoGlas_0_0_3" oid="EpoRezept_20050512_043411_22069_6820">
+    <Links>
+      <EpoRezeptGarnierung_20050512_043621_12974_720 RezeptOid="EpoRezept_20050512_043411_22069_6820" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_9" oid="EpoRezeptGarnierung_20050512_043621_12974_720" />
+      <EpoRezeptZutat_20050512_043436_23835_11465 RezeptOid="EpoRezept_20050512_043411_22069_6820" Name="Neue Rezeptzutat" Anteil="50" ZutatOid="EpoZutat_20050129_050254_1556_26583" oid="EpoRezeptZutat_20050512_043436_23835_11465" />
+      <EpoRezeptZutat_20050512_043436_19296_25320 RezeptOid="EpoRezept_20050512_043411_22069_6820" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050105_093954_24878_16378" oid="EpoRezeptZutat_20050512_043436_19296_25320" />
+      <EpoRezeptZutat_20050512_043436_27715_20918 RezeptOid="EpoRezept_20050512_043411_22069_6820" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050109_015251_2438_16563" oid="EpoRezeptZutat_20050512_043436_27715_20918" />
+      <EpoRezeptZutat_20050512_043435_4181_19440 RezeptOid="EpoRezept_20050512_043411_22069_6820" Name="Neue Rezeptzutat" Anteil="10" ZutatOid="EpoZutat_20050404_124100_20942_17890" oid="EpoRezeptZutat_20050512_043435_4181_19440" />
+    </Links>
+  </EpoRezept_20050512_043411_22069_6820>
+  <EpoRezept_20050105_101646_24173_29553 RubrikOid="EpoRubrik_0_0_13" Name="Whiskey Sour" Zubereitung="Alle Zutaten mit Eiswürfeln im Shaker kräftig schütteln. In das Glas gießen und mit einer Cocktailkirsche garnieren." GlasOid="EpoGlas_0_0_1" oid="EpoRezept_20050105_101646_24173_29553">
+    <Links>
+      <EpoRezeptGarnierung_20050105_101838_24286_16447 RezeptOid="EpoRezept_20050105_101646_24173_29553" Menge="1" Name="Neue Rezeptgarnierung" GarnierungOid="EpoGarnierung_0_0_4" oid="EpoRezeptGarnierung_20050105_101838_24286_16447" />
+      <EpoRezeptZutat_20050105_101710_25280_29822 RezeptOid="EpoRezept_20050105_101646_24173_29553" Name="Neue Rezeptzutat" Anteil="40" ZutatOid="EpoZutat_20050105_101739_25247_5425" oid="EpoRezeptZutat_20050105_101710_25280_29822" />
+      <EpoRezeptZutat_20050105_101710_10733_23901 RezeptOid="EpoRezept_20050105_101646_24173_29553" Name="Neue Rezeptzutat" Anteil="40" ZutatOid="EpoZutat_20050105_083654_13646_12051" oid="EpoRezeptZutat_20050105_101710_10733_23901" />
+      <EpoRezeptZutat_20050105_101710_30301_21236 RezeptOid="EpoRezept_20050105_101646_24173_29553" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050105_093630_10833_23457" oid="EpoRezeptZutat_20050105_101710_30301_21236" />
+    </Links>
+  </EpoRezept_20050105_101646_24173_29553>
+  <EpoRezept_20050105_102029_15967_10543 RubrikOid="EpoRubrik_0_0_3" Name="White Lady" Zubereitung="Alle Zutaten mit Eis im Shaker einige Sekunden kräftig schütteln und dann in das Glas gießen. " GlasOid="EpoGlas_0_0_0" oid="EpoRezept_20050105_102029_15967_10543">
+    <Links>
+      <EpoRezeptZutat_20050105_102045_7622_25317 RezeptOid="EpoRezept_20050105_102029_15967_10543" Name="Neue Rezeptzutat" Anteil="50" ZutatOid="EpoZutat_20050102_120605_24805_24228" oid="EpoRezeptZutat_20050105_102045_7622_25317" />
+      <EpoRezeptZutat_20050105_102045_28802_31691 RezeptOid="EpoRezept_20050105_102029_15967_10543" Name="Neue Rezeptzutat" Anteil="30" ZutatOid="EpoZutat_20050105_090038_28677_10384" oid="EpoRezeptZutat_20050105_102045_28802_31691" />
+      <EpoRezeptZutat_20050105_102045_4966_7328 RezeptOid="EpoRezept_20050105_102029_15967_10543" Name="Neue Rezeptzutat" Anteil="20" ZutatOid="EpoZutat_20050105_083654_13646_12051" oid="EpoRezeptZutat_20050105_102045_4966_7328" />
+    </Links>
+  </EpoRezept_20050105_102029_15967_10543>
+  <EpoRezept_20070211_020225_23907_30654 RubrikOid="EpoRubrik_0_0_12" Name="White Russian" Zubereitung="Den Wodka und den Kaffelikör zusammen mit den Eiswüfeln direkt in das Glas geben und kurz verrühren. Dann die Sahne über einen Löffelrücken so in das Glas laufen lassen, dass sich eine Haube aus Sahne bildet." GlasOid="EpoGlas_0_0_2" oid="EpoRezept_20070211_020225_23907_30654">
+    <Links>
+      <EpoRezeptZutat_20070211_020524_29803_30436 RezeptOid="EpoRezept_20070211_020225_23907_30654" Name="Neue Rezeptzutat" Anteil="50" ZutatOid="EpoZutat_20050105_090950_7944_5763" oid="EpoRezeptZutat_20070211_020524_29803_30436" />
+      <EpoRezeptZutat_20070211_020243_1089_29632 RezeptOid="EpoRezept_20070211_020225_23907_30654" Name="Neue Rezeptzutat" Anteil="25" ZutatOid="EpoZutat_20050105_083812_13983_1531" oid="EpoRezeptZutat_20070211_020243_1089_29632" />
+      <EpoRezeptZutat_20070211_020312_6330_7703 RezeptOid="EpoRezept_20070211_020225_23907_30654" Name="Neue Rezeptzutat" Anteil="15" ZutatOid="EpoZutat_20070211_014304_12777_23312" oid="EpoRezeptZutat_20070211_020312_6330_7703" />
+      <EpoRezeptZutat_20070211_020332_6767_21593 RezeptOid="EpoRezept_20070211_020225_23907_30654" Name="Neue Rezeptzutat" Anteil="10" ZutatOid="EpoZutat_20050404_124148_17237_30484" oid="EpoRezeptZutat_20070211_020332_6767_21593" />
+    </Links>
+  </EpoRezept_20070211_020225_23907_30654>
+</CManagerData>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title></title>
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<LINK REL="STYLESHEET" TYPE="text/css" HREF="HelpStyles.css">
+		<meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1">
+		<meta name="ProgId" content="VisualStudio.HTML">
+		<meta name="Originator" content="Microsoft Visual Studio .NET 7.1">
+	</head>
+	<body>
+		<H1>Alkoholberechnung</H1>
+		<P>Lesen Sie hier wie die eingebaute Alkoholberechnung des CManager funktioniert 
+			und was Biereinheiten sind.</P>
+		<P>Um gleich zu sagen: Die Alkoholberechnung ist nicht geeignet um den 
+			Alkoholgehalt des Blutes zu bestimmen oder die Fahrtüchtigkeit nach dem Genuss 
+			eines Cocktails einzuschätzen.</P>
+		<P>Sie soll lediglich dazu dienen einen Cocktail geschmacklich und hinsichtlich 
+			seiner Wirkung besser einzuschätzen. Dazu berechnet CManager den 
+			Volumenalkoholgehalt des Cocktails aus den Zutaten. Das kann natürlich nur so 
+			genau sein, wie die Zutatendaten gepflegt wurden. Wenn man z:b. Whiskey mit 
+			einem Alkoholanteil von 0% erfasst hat, wird ein Whiskey-Sour versehentlich zum 
+			alkoholfreien Drink. Doch auch übertriebene Genauigkeit mach kaum Sinn, denn 
+			die Ungenauigkeiten beim Mixen und die durch schmelzendes Eis entstehenden 
+			Abweichungen lassen eine Genaue Berechnung des Alkoholgehalts selbst gemixter 
+			Cocktails nicht zu.&nbsp;</P>
+		<P>Am sinnvollsten ist es für die verscheidenen Zutaten deren durschnittlichen 
+			Alkoholgehalt&nbsp;anzunehmen.&nbsp;Auf diese Weise erhält man eine gute 
+			Abschätzung des Alkoholgehaltes eines Cocktails wobei es auf ein halbes Prozent 
+			mehr oder weniger nicht ankommt.</P>
+		<P>Damit die Berechnung einigermassen verlässlich wird rechnet CManager das Volumen 
+			von Eis vollständig heraus. D.h. es wird davon ausgegangen, dass der Cocktail 
+			so schnell getrunken wird, dass keinerlei Eis schmilzt und so den Alkoholgehalt 
+			verringert. Auf diese Weise stellt der berechnete Alkoholgehalt stets eine 
+			Abschätzung nach oben dar.</P>
+		<P>Ohnehin ist der prozentuale Alkoholgehalt weniger aussagekräftig als man 
+			zunächst denkt. Häufig&nbsp;werden nämlich hochprozentige Cocktails in kleinen 
+			Gäsern serviert (als Shorts) und Longdrinks habe einen geringeren 
+			Alkoholanteil, so dass am Ende die Alkoholmengen von Cocktails beinahe gleich 
+			sind. Der Alkoholanteil sagt daher eher etwas über den Geschmack des Cocktails 
+			aus.</P>
+		<P>Um einen Cocktail noch besser einschätzen zu können berechnet daher CManager den 
+			totalen Alkoholanteil eines Cocktails aus dem prozentualen Alkoholanteil und 
+			setzt diesen ins Verhältnis zu einem 0,3l Bier mit durchschnittlichen 
+			Alkoholgehalt (4,8%). So entsteht die Maßzahl Biereinheiten. Wenn ein Cocktail 
+			also 2 Biereinheiten hat entspricht sein Genuss dem Trinken von zwei 0,3l 
+			Bieren durchschnittlicher Stärke. Dies ist daher besonders für Biertrinker ein 
+			gewohntes Maß. Als Einheit für die Biereinheiten wurde im CManager die Einheit 
+			"be" gewählt was nichts mit den Broteinheiten BE für Diabetiker zu zun hat.</P>
+		<P>&nbsp;</P>
+	</body>
+</html>

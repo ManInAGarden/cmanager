@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title></title>
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<LINK REL="STYLESHEET" TYPE="text/css" HREF="HelpStyles.css">
+		<meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1">
+		<meta name="ProgId" content="VisualStudio.HTML">
+		<meta name="Originator" content="Microsoft Visual Studio .NET 7.1">
+	</head>
+	<body>
+		<H1>Bedienung</H1>
+		<P>Hier wird beschrieben wie man neue Rezepte und andere Daten in den CManager 
+			eingibt.</P>
+		<H2>Grundsätzliches</H2>
+		<P>Viele die Daten betreffenden&nbsp;Funktionen sind im CManager über das 
+			Kontextmenü erreichbar. Über das Kontextmenü im Rezeptebaum können neue 
+			Einträge angelegt, vorhandene gelöscht und bearbeitet werden. Dies gescheiht 
+			stets unabhängig davon um welche Art von Daten es sich dabei handelt. D.h. ein 
+			neues Glas wird in gleicher Weise angelegt wie ein neues Rezept.</P>
+		<P>Beachten Sie bei allen Datenänderungen, dass die Daten sich aufeinander 
+			beziehen. Wenn Sie z.B. ein Glas löschen, das bei einigen Cocktails als 
+			Standardglas hinterlegt ist, geht dieser Bezug verloren. Die betreffenden 
+			Rezepte haben dann kein standardglas mehr und müssen ggf. einzeln korrigiert 
+			werden.</P>
+		<P>Machen Sie daher gelegentlich Sicherungskopien in Form von vollständigen 
+			Exporten (im Hauptmenü unter "Datei"). Wenn Sie versehentlich ewtas geändert 
+			haben, können Sie dann durch einen Import dieser Sicherungsdatei die Daten 
+			wieder herstellen, und damit auch evtl. zerstörte&nbsp;Bezüge wieder 
+			korrigieren.</P>
+		<H3>Neue Daten anlegen</H3>
+		<P>Selektieren Sie eine Datenüberschrift im Rezeptebaum und aktivieren Sie den 
+			Menüpunkt "Neu" im Kontextmenü. Es wird daraufhin ein zur Überschrift 
+			untergeordnetes Element neu angelegt. Dieses erhält den Namen "* Neues ...", 
+			wobei die drei Punkte durch die Art des neu Erzeugten Datensatzes ergänzt 
+			werden. Also "* Neues Glas" für ein&nbsp;neues Glas.</P>
+		<P>Bei Untergeordneten Datenelementen, wie&nbsp;z.B. einer Zutatenzuordnung in der 
+			Zutatenliste eines Cocktails wählen Sie stattdessen den Button "*" über der 
+			betreffenden Liste. Auch hier wird ein neues Element (hier eine Zuordnung) 
+			angelegt, die mit&nbsp;einem voreingestellten Namen für neue Elemente vorbelegt 
+			ist.</P>
+		<P>Alle&nbsp;neu angelegten&nbsp;Daten werden sofort in der Datenbank 
+			gespeichert&nbsp;und finden sich auch nach dem Verlassen von CManager nach 
+			einem erneuten Start wieder.</P>
+		<H3>Daten bearbeiten</H3>
+		<P>Das Bearbeiten der Daten erfolgt jeweils in speziellen Bearbeitungsdialogen, die 
+			abhängig von der Datenart unterschiedliche Eingabefelder oder Auswahllisten 
+			enthalten. Diese folgen jedoch alle einem einheitlichen Schema.</P>
+		<P>Um einen&nbsp;Datensatz (z.B.eine neue Zutat)&nbsp;zu 
+			bearbeiten&nbsp;selektieren Sie&nbsp; diesen im Rezeptebaum oder in der Liste 
+			untegeordneter Elemente eines Bearbeitungsdialoges. Wählen Sie dann im 
+			Kontexmenü des Rezeptebaums den Punkt "Bearbeiten" oder benutzen Sie den 
+			"&gt;"-Button über der Liste untergeordneter Elemente. In jedem Fall wird dann 
+			der Bearbeitungsdialog für die betreffende Datenart geöffnet und mit den Daten 
+			des zuvor selektierten Elementes gefüllt.</P>
+		<P>Häufig finden Sie als erstes bzw. oberstes Element im Bearbeitungsdialog eine 
+			sog. Combobox. Dies ist eine aufklappbare Liste deren aktuelle Auswahl in einem 
+			Textfeld dargstellt wird. Das Aufklappen erfolgt über einen kleinen Button 
+			rechts neben dem Textfeld. Über diese oberste Combobox können Sie die Zuordnung 
+			zu einer übergeordneten Datenart vornehmen. So sind z.B. die Rezepte jeweils 
+			einer Rubrik zugeordnet, die sie über diese Combobox verändern können.</P>
+		<P>Meist befindet sich erst unter diese Combobox ein Textfeld über das der Name des 
+			Elementes bearbeitet werden kann. Grundsätzlich finden Sie Comboboxen wenn 
+			andere Elemente dem gerade bearbeiten Element zugeordnet werden können.&nbsp;So 
+			kann&nbsp;z.B. das Standardglas in dem der Cocktail serviert dem Cocktailrezept 
+			über eine Combobox zugeordnet werden.</P>
+		<P>Alle Bearbeitungsdialoge enthalten einen OK-Button über den die Dateneingabe 
+			beendet wird und dabei die Daten wieder in der Datenbank abgelegt werden. Mit 
+			dem ebenfalls stets vorhandenem Abbruch-Button können Sie hingegen den 
+			Bearbeitungsdialog verlassen, ohne dass Daten gespeichert werden.</P>
+		<H3>Daten löschen&nbsp;</H3>
+		<P>Das Löschen von Daten ist einfach und schnell möglich. Achtung - wenn die Daten 
+			einmal gelöscht wurden können Sie nicht wieder hergestellt werden.</P>
+		<P>Um ein Element zu löschen selektieren Sie dieses im Rezeptebaum und wählen Sie 
+			die Funktion "Löschen" des Kontextmenüs. Wenn Sie untergeordnete Daten löschen 
+			wollen müssen Sie das übergeordnete Element zur Bearbeitung öffnen. Markieren 
+			Sie nun das untergeordnete Element, z.B. eine Zutatenzuordnung, in der Liste 
+			der untergeordneten Elemente. Löschen Sie das Element durch Betätigung des 
+			"X"-Buttons über der betreffenden Liste.&nbsp;</P>
+		<P>Wenn Sie die Sicherheitsrückfrage mit "Ja" beantworten wird das Element 
+			unwiederruflich gelöscht.</P>
+		<P>Machen Sie häufig Backups, damit Sie auch in solchen Fällen die Daten ggf. 
+			wieder herstellen können. Nutzen Sie dazu die Export-Funktion bzw. die 
+			Import-Funktion von CManager.&nbsp;Achtung -&nbsp;ein Import bringt alle seit 
+			dem Export veränderten Elemente wieder auf den Stand des Exports zurück. 
+			Lediglich neu erfasste Daten bleiben erhalten. Häufig ist die Neuerfassung 
+			einiger verloren gegangender Änderungen das kleinere Übel.</P>
+	</body>
+</html>
